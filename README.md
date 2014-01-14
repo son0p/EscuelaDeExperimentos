@@ -10,7 +10,7 @@ Se plantean ciclos de tres meses donde los aprendices se agrupan para plantear s
 ### Siembra de ideas de aprendices
 (Febrero)
 
-Se detona la creatividad de los aprendices (en grupos) para que cada encuentren su mejor idea para desarrollar en el ciclo
+Se detona la creatividad de los aprendices (en grupos) para que encuentren su mejor idea, idea que será desarrollada en el ciclo.
 >Tormentas de ideas, tanques de pensamiento, actividades creativas
 
 
