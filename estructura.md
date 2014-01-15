@@ -20,3 +20,6 @@ la documentación de los procesos para que las experiencias sirvan a otros.
 
 ### Facilitador
 Remueve los obstaculos para que el proyecto funcione.
+
+
+![Diagrama](https://docs.google.com/drawings/d/1gPuQEHZGoQ_a5PRK5-DOF48x5DG99OSTfNfWpWkFybs/pub?w=1006&amp;h=716)
