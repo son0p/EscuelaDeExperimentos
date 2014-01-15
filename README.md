@@ -1,5 +1,7 @@
 # Escuela de Electrónicas Extrañas
-Se plantean ciclos de tres meses donde los aprendices se agrupan para plantear sus ideas, las producen con la ayuda de los  orientadores y guias, y finalmente las socializan en eventos públicos.
+Se plantean ciclos de tres meses donde los aprendices se agrupan para plantear
+sus ideas, las producen con la ayuda de los  orientadores y guias, y finalmente
+las socializan en eventos públicos [ver estructura](estructura.md)
 
 
 ## Formación Guias
@@ -10,7 +12,8 @@ Se plantean ciclos de tres meses donde los aprendices se agrupan para plantear s
 ### Siembra de ideas de aprendices
 (Febrero)
 
-Se detona la creatividad de los aprendices (en grupos) para que encuentren su mejor idea, idea que será desarrollada en el ciclo.
+Se detona la creatividad de los aprendices (en grupos) para que encuentren
+su mejor idea, idea que será desarrollada en el ciclo.
 >Tormentas de ideas, tanques de pensamiento, actividades creativas
 
 
@@ -22,16 +25,20 @@ Orientadores y Guias ayudan a los aprendices a hacer de su idea un espectáculo.
 ### Difusión y entrenamiento
 (Abril)
 
-Aprendices comunican y convocan su espectaculo y tienen medio mes para practicar su presentación.
+Aprendices comunican y convocan su espectaculo y tienen medio mes para
+practicar su presentación.
 
 
 ### Socialización
 (Mediados de Abril)
 
-Un evento de dos días, con talleres, ponencias y resultados de experiencias, se presentan los espectáculos de los estudiantes y participan personas reconocidas en música electrónica, artes sonoro, y programación.
+Un evento de dos días, con talleres, ponencias y resultados de experiencias,
+se presentan los espectáculos de los estudiantes y participan personas reconocidas
+en música electrónica, artes sonoro, y programación.
 > Nombre propuesto: Enfatiza
 
-> Posibles invitado internaciónal: Renato Fabbri (Brasil), Rafael Vega, Daniel Gomez, Un/loquer
+> Posibles invitado internaciónal: Renato Fabbri (Brasil), Rafael Vega,
+> Daniel Gomez, Un/loquer
 
 ### Documentación, Manuales, Sonificaciónes y visualizaciones.
 (Post-evento Abril)
