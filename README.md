@@ -14,7 +14,7 @@ Se detona la creatividad de los aprendices (en grupos) para que encuentren su me
 >Tormentas de ideas, tanques de pensamiento, actividades creativas
 
 
-### Prducción de ideas
+### Producción de ideas
 (Marzo)
 
 Orientadores y Guias ayudan a los aprendices a hacer de su idea un espectáculo.
@@ -31,7 +31,7 @@ Aprendices comunican y convocan su espectaculo y tienen medio mes para practicar
 Un evento de dos días, con talleres, ponencias y resultados de experiencias, se presentan los espectáculos de los estudiantes y participan personas reconocidas en música electrónica, artes sonoro, y programación.
 > Nombre propuesto: Enfatiza
 
-> Posibles invitado internaciónal: Renato Fabbri (Brasil)
+> Posibles invitado internaciónal: Renato Fabbri (Brasil), Rafael Vega, Daniel Gomez, Un/loquer
 
 ### Documentación, Manuales, Sonificaciónes y visualizaciones.
 (Post-evento Abril)
@@ -42,7 +42,7 @@ Un evento de dos días, con talleres, ponencias y resultados de experiencias, se
 
 ### Siembra de ideas de aprendices
 
-### Prducción de ideas
+### Producción de ideas
 
 ### Difusión y entrenamiento
 
