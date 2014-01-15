@@ -1,27 +1,22 @@
+Los elementos que componen la estructura de apredizajes y prácticas tiene los siguientes elementos:
 
-|AP| = Aprendiz	
-									  |AP| ---------\
-												     ------------------\ 	   *Idea*
-															            ----------|-\
-										  *Idea*			                      |	 ---\
-											/|----\   		               		  |	     --
-		  *Idea*  	  					   / |	   -----|AP|-----      			 /		|AP|
-			  \							   | |			         \---			 |
-			   |		*Idea*			  /	|AP|	           	  *Idea*		 |
-			   \	   /-- \			  |			       		  /--|			 |
-			    \  /---     \			 /						--	 |			 |
-				 \-  		| 		     |					  |AP|	 |			 |
-			   |AP|			 \			/							  \			/
-							 |		    |							  |			|
-							  \		   /							  |			|
-               	   +----+    +----+	 +----+	 +----+	+----+ +-----+	+----+	 +----+
-   	   	 	       |Guia|    |Guia|	 |Guia|  |Guia|	|Guia| |Guia | 	|Guia| 	 |Guia|
- 	   	           +----+	 +----+  +----+	 +----+	+----+ +-----+	+----+	 +----+
-   	          	      	    +-----------+    			  +------------+
- 	   	 		   		    | orientador|  				  |orientador  |
- 		        		    +-----------+				  +------------+
+### Ideas
+Las ideas son generadas por los Aprendices quienes conforman
+grupos de trabajo para hacer de cada idea un espectáculo.
+Los grupos son de libre entrada y libre salida.
 
 
- 			                    			  +---------+
-                           					  |  dir    |
-                      						  +---------+
+### Aprendices
+Los aprendices se agrupan alrededor de Ideas, pueden participar en varios
+grupos.
+
+### Guias Expertos
+Los guias expertos tienen talento en temas específicos y estan listos para
+capacitar a los aprendices a medida que lo vayan requiriendo.
+
+### Tutores
+Ayudan a los aprendices a darle forma a lo que van aprendiendo y coordinan
+la documentación de los procesos para que las experiencias sirvan a otros.
+
+### Facilitador
+Remueve los obstaculos para que el proyecto funcione.
