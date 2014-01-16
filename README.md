@@ -1,8 +1,9 @@
 # Escuela de Electrónicas Extrañas
 Se plantean ciclos de tres meses donde los aprendices se agrupan para plantear
 sus ideas, las producen con la ayuda de los  orientadores y guias, y finalmente
-las socializan en eventos públicos [ver estructura](estructura.md)
+las socializan en eventos públicos. [(propuesta de estructura)](estructura.md)
 
+Los talentos involucrados serían: Aprendices, Expertos, Tutores, se puede leer mas de los talentos [aquí](talentos.md).
 
 ## Formación Guias
 (Enero - Febrero)
