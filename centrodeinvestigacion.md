@@ -57,6 +57,10 @@ Líneas de investigación: http://www.cirmmt.org/research
 
 ---
 
+## ¿Qué se puede hacer en Medellín?
+
+---
+
 ## Referentes Gráficos
 ![](http://www.sonicscoop.com/site/wp-content/uploads/2013/01/insight_postbroadcast.png)
 ---
@@ -65,7 +69,8 @@ Líneas de investigación: http://www.cirmmt.org/research
 ![](http://www.baudline.com/screenshots/bloccaggio.png)
 ---
 ![](http://www.medellin.gov.co/irj/go/km/docs/wpccontent/Sites/Portal%20Ciudad%20de%20Medell%C3%ADn/Galer%C3%ADas%20de%20Im%C3%A1genes/Galer%C3%ADas/Imagenes%20Alcaldia/normal/Coliseos%20Unidad%20Atanasio%20Girardot.jpg)
-
+![](http://media.treehugger.com/assets/images/2013/02/listen-girl.jpg.492x0_q85_crop-smart.jpg)
+![](http://static.dezeen.com/uploads/2013/02/dezeen_Lullaby-Factory-by-Studio-Weave_ss_9.jpg)
 ----
 
 
