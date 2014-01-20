@@ -1,5 +1,5 @@
 # Escuela de Electrónicas Extrañas
-/home/fede2001/webapps/git/repos/proj.git
+
 
 ----
 Se plantean ciclos de tres meses donde los aprendices se agrupan para plantear
@@ -9,6 +9,8 @@ las socializan en eventos públicos. [(propuesta de estructura)](estructura.md)
 Los talentos involucrados serían: Aprendices, Expertos, Tutores, se puede leer mas de los talentos [aquí](talentos.md).
 
 La escuela usaría y desarrollaría herramientas de sofware libre, [panorama de sofware](software.md).
+
+Los requerimientos técnicos y logísticos para un ciclo se pueden leer [aquí](requerimientos.md).
 
 ## Formación Guias
 (Enero - Febrero)
