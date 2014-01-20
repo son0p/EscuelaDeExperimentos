@@ -1,4 +1,5 @@
 # Escuela de Electrónicas Extrañas
+/home/fede2001/webapps/git/repos/proj.git
 
 ----
 Se plantean ciclos de tres meses donde los aprendices se agrupan para plantear

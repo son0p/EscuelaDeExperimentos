@@ -1,7 +1,28 @@
-https://github.com/yaxu/Tidal/blob/master/doc/tidal.md
 
+
+---
+
+Toyota Kata defines management as, “the systematic pursuit of desired conditions by utilizing human capabilities in a concerted way.” 
+
+http://en.wikipedia.org/wiki/Toyota_Kata
+
+----
+
+C4 zeroMQ http://rfc.zeromq.org/spec:22
+
+----
+
+# Livecoding
+## scene
+http://vivo2013.cenart.tv/html/invitados.html
 http://www.amniotica.tv/ bogota
 http://toplap.org/
+
+
+## Software
+
+https://github.com/yaxu/Tidal/blob/master/doc/tidal.md
+
 
 
 
