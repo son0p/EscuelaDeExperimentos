@@ -57,7 +57,7 @@ Lo mismo de la etapa de siembra de ideas, adicionando:
 
 
 
-## Documetación
+## Documentación
 `diez días`
 - Centro de edición de audio y video.
 - 2 Correctores/editores de textos.
