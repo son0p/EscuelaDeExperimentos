@@ -1,21 +1,26 @@
+
 # Escuela de Electrónicas Extrañas
 
 
 ----
 Se plantean ciclos de tres meses donde los aprendices se agrupan para plantear
-sus ideas, las producen con la ayuda de los  orientadores y guias, y finalmente
+sus ideas, las producen con la ayuda de los  orientadores y guías, y finalmente
 las socializan en eventos públicos. [(propuesta de estructura)](estructura.md)
 
-Los talentos involucrados serían: Aprendices, Expertos, Tutores, se puede leer mas de los talentos [aquí](talentos.md).
+A diferencia de las incubadoras de ideas, que están más orientadas hacia producir emprendimiento comercial, o "Startups", la orientación de las ideas de la escuela son más bien académicas y de investigación, el objetivo es que los aprendices sean capaces de construir un pensum de aprendizaje alrededor de una idea concreta que quieren desarrollar.
 
-La escuela usaría y desarrollaría herramientas de sofware libre, [panorama de sofware](software.md).
+Los talentos involucrados serían: Aprendices, Expertos, Tutores, e invitados se puede leer mas de los talentos [aquí](talentos.md).
+
+Para su funcionamiento la escuela usaría y desarrollaría herramientas de sofware libre, como parte del procesos de aprendizaje. [panorama de sofware](software.md).
 
 Los requerimientos técnicos y logísticos para un ciclo se pueden leer [aquí](requerimientos.md).
 
-## Formación Guias
+
+
+## Formación Guías
 (Enero - Febrero)
 
-## Ciclo 0 
+## Ciclo 0
 
 ### Siembra de ideas de aprendices
 (Febrero)
@@ -28,12 +33,12 @@ su mejor idea, idea que será desarrollada en el ciclo.
 ### Producción de ideas
 (Marzo)
 
-Orientadores y Guias ayudan a los aprendices a hacer de su idea un espectáculo.
+Orientadores y Guías ayudan a los aprendices a hacer de su idea un espectáculo.
 
 ### Difusión y entrenamiento
 (Abril)
 
-Aprendices comunican y convocan su espectaculo y tienen medio mes para
+Aprendices comunican y convocan su espectáculo y tienen medio mes para
 practicar su presentación.
 
 
@@ -45,24 +50,11 @@ se presentan los espectáculos de los estudiantes y participan personas reconoci
 en música electrónica, artes sonoro, y programación.
 > Nombre propuesto: Enfatiza
 
-> Posibles invitado internaciónal: Renato Fabbri (Brasil), Rafael Vega,
-> Daniel Gomez, Un/loquer
 
 ### Documentación, Manuales, Sonificaciónes y visualizaciones.
 (Post-evento Abril)
 
 
 --------------
-## Ciclo 1
-
-### Siembra de ideas de aprendices
-
-### Producción de ideas
-
-### Difusión y entrenamiento
-
-### Socialización
-
-#### Documentación, Manuales, Sonificaciónes y visualizaciones.
 
 
