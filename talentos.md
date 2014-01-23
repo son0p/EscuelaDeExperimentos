@@ -1,5 +1,3 @@
-
-
  
 # Talentos para Electrónicas Extrañas
 ----
@@ -30,6 +28,23 @@
 - Tienen herramientas para evaluar el progreso individual.
 - Puede reclutar expertos.
 - Es hábil en guiar a los aprendices en la documentación de cada proceso de manera que le sirva a otros.
-     
-        
+
+## Potenciales Invitados
+El objetivo de estos invitados es conducir la fascinación hacia aspectos experimentales del sonido.
+Partimos del el imaginario tradicional de la música electrónica (Dj's, techno, etc) pasamos por generos intermedios como el Dubstep para ir explorando el ruido, la música con algoritmos, y otro tipo de búsquedas.
+
+
+Llendo de lo masivo a lo experimental :
+*Skrillex*
+*Aphex Twin*
+*Vodoo Noise* https://soundcloud.com/the-voodoo-noise
+*M.A.M.I*
+*Venetian Snares*
+*DMX Krew*
+*Wisp*
+*Alexandra Cardenas* http://cargocollective.com/tiemposdelruido/music
+*Patrick Borgeat Cappel*:Nord http://www.cappel-nord.de/b/ visuales
+*Juan Reyes*
+*Andrés Cabrera*
+*Renato Fabbri*
 
