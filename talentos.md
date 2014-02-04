@@ -39,35 +39,48 @@ Tratamos de hacer procesos de seguimiento con los invitados, contextualizarlos a
 
 
 
-`Internacionales:`
+### Internacionales:
 *Skrillex*
+
 *Aphex Twin*
 
 *Venetian Snares*
+
 *DMX Krew*
+
 *Wisp*
+
 *Patrick Borgeat Cappel*:Nord http://www.cappel-nord.de/b/ visuales
+
 *Renato Fabbri* Código en vivo y software de autoregulación de comunidades.
+
 *Andrés Mayo* Ingeniería de sonido
+
 *Panetone* 
 
 
-`Nacionales:`
+### Nacionales:
+
 *Vodoo Noise*
 Música:https://soundcloud.com/the-voodoo-noise
 Contacto: https://www.facebook.com/vdnoise
 Promo: http://youtu.be/G54C1RCVlk0
+
 *Blue Art Musique*
 Contacto: https://www.facebook.com/blueartmusique?fref=ts
+
 *Jose Gallardo* Series Sinfónico  ( musicainmobiliaria@gmail.com ), del sello SeriesMedia hizo un proyecto interesante de ensamblar chicos de la red de bandas con música electrónica subterránea : https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-ash3/q83/s720x720/1239980_10151851677869346_800220160_n.jpg
 
 *Protov* https://www.facebook.com/pages/Protov/86551978340
 
 
-'Colombianos en el exterior'
+### Colombianos en el exterior
 *Juan Reyes*
+
 *Andrés Cabrera*
+
 *Alexandra Cardenas* http://cargocollective.com/tiemposdelruido/music
+
 *M.A.M.I*
 
 
