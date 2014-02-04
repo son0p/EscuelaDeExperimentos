@@ -52,11 +52,6 @@ Tratamos de hacer procesos de seguimiento con los invitados, contextualizarlos a
 
 *Patrick Borgeat Cappel*:Nord http://www.cappel-nord.de/b/ visuales
 
-*Renato Fabbri* Código en vivo y software de autoregulación de comunidades.
-
-*Andrés Mayo* Ingeniería de sonido
-
-*Panetone* 
 
 
 ### Nacionales:
@@ -75,13 +70,23 @@ Contacto: https://www.facebook.com/blueartmusique?fref=ts
 
 
 ### Colombianos en el exterior
+
+*M.A.M.I*
+
+### Componente académico
+
+*Renato Fabbri* Código en vivo y software de autoregulación de comunidades.
+
+*Alexandra Cardenas* http://cargocollective.com/tiemposdelruido/music
+
 *Juan Reyes*
 
 *Andrés Cabrera*
 
-*Alexandra Cardenas* http://cargocollective.com/tiemposdelruido/music
+*Andrés Mayo* Ingeniería de sonido
 
-*M.A.M.I*
+*Panetone* 
+
 
 
 
