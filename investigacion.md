@@ -1,4 +1,21 @@
 
+---
+María:  pues hay uno que se llama Garabatrónicos
+para niños
+apenas va a comenzar
+pues el año
+pasado hicimos prueba
+piloto
+y ya este año
+es grupo proceso
+el objetivo es
+ Sent at 3:14 PM on Tuesday
+ María:  " Aprender diferentes características de la programación a partir de la exploración de aplicaciones y software interactivo, que tienen como método didáctico la gamificación para la creación de contenidos.
+"
+ahí
+hemos visto scratch
+ María is typing…
+
 
 ---
 

@@ -54,11 +54,24 @@ Líneas de investigación: http://www.cirmmt.org/research
 - Universidad San Buenaventura : Tiene un laboratorio de acústica.
 - Universidad UPB : Tienen un grupo de investigación en DSP y audio.
 - SENA : tiene trabajo en audiovisual.
+- Sapiencia: es un programa oficial para la optimización de la educación superior?
+- Cultura de la Innovación: Ruta N debe tener una investigación en el tema.
+- 
 
 ---
 
 ## ¿Qué se puede hacer en Medellín?
+Un entorno en experimentación e investigación que promueve el trabajo colaborativo, codigos abiertos aportando otros usos de la cultura digital.
 
+### Posibles líneas:
+- Arqueología sonora (en cooperación con UdeA)
+- Arte sonoro (en cooperación con MaMM)
+- Usos inesperados del sonido (en cooperación con Un/loquer)
+- Investigación de la amplificación de instrumentos andinos (en cooperación con el ITM)
+- SENA
+- Audio Escuela
+- Experimentación acústica y de materiales (en cooperación con la U San Buenaventura)
+- 
 
 ---
 
@@ -86,6 +99,9 @@ Líneas de investigación: http://www.cirmmt.org/research
 
 
 ## NOTAS:
+### Mejoras para la siguiente presentación:
+- Hacer más visibles las posibles líneas y sus conexiones con procesos actuales.
+
 * Pasantias
 * Observatorio
 * Movilidad internacional
