@@ -1,22 +1,48 @@
+# Requerimientos de espacio/equipos y horas por mes
+
+## Capacitación profesores
+*Sede Cantoalegre Martes de 2 a 6pm*
+- Mesa de trabajo para aproximadamente 10 personas. 
+- Monitor(pantalla) de  42 pulgadas.
+- 10 computadores con Linux instalado.
+- 2 Monitores de estudio (parlantes).
+- 1 SubWoofer (parlante).
+
+## Prácticas Aprendices
+*MAMM, Lunes 2 a 5:30pm*
+- Mesa de trabajo para aproximadamente 10 personas. 
+- Monitor(pantalla) de 42 pulgadas.
+- 10 computadores con Linux instalado ***
+- 2 Monitores de esudio (parlantes). ***
+- 1 SubWoofer (parlante). ***
+
+*** los provee cantoalegre
+
+## Divulgación y sensibilización
+*Parque Biblioteca Belen, una vez por mes miércoles 5:30pm*
+- Auditorio para 200 personas.
+- Amplificación (4 micrófonos, 4 cajas directas, consola LS9 o similar).
+- Video Beam.
+- Conexión a internet para transmitir.
+
+
 # Requerimientos técnicos para un ciclo
 
 ## Siembra de ideas
-`un mes`
-
-- Un espacio para hablarle a 50 personas (con amplificación si es aire libre).
-- Salones para que las 50 personas se agrupen en aproximadamente 10 grupos.
-- Mesas para 10 grupos.
-- Papel y lapiz para 50 personas.
-- 10 tableros blancos con marcadores y borradores.
-- 10 computadores con interfaz de audio.
-- 5 controladores MIDI con teclas.
-- 5 controladores MIDI con knobs.
-- 10 pares de monitores de estudio.
-- 5 subwoofers.
-- 3 Pantallas de 40 pulgadas.
+`4 horas a la semana`
+- Mesas para un grupo alrrededor de 10.
+- Papel y lapiz para 15 personas.
+- 1 tableros blancos con marcadores y borradores.
+- 10 computadores con Linux instalado.
+- 1 Tarjeta de sonido externa.
+- 1 controlador MIDI con teclas.
+- 1 controlador MIDI con knobs y faders.
+- 1 par de monitores de estudio.
+- 1 subwoofers.
+- 1 Pantalla de 42 pulgadas.
 - 10 Memorias USB de 8 gigas.
-- 10 sillas ejecutivas.
-- 40 sillas livianas.
+- 2 sillas ejecutivas.
+- 14 sillas livianas.
 - Acceso a Internet.
 
 ## De ideas a espectáculos 
@@ -40,9 +66,9 @@ Lo mismo de la etapa de siembra de ideas, adicionando:
 
 ## Muestra pública
 `uno o dos  días`
-- Sitio con capacidad de 500 personas (techado si es aire libre).
+- Sitio con capacidad de 300 personas (techado si es aire libre).
 - Seguridad, logística y permisos para un evento público.
-- Amplificación para escenario principal 500 personas.
+- Amplificación para escenario principal 300 personas.
 - Amplificacion para salones 2 salones satélites de muestras. 
 - Iluminación para escenario principal.
 - Iluminación para salones satélites.
@@ -65,4 +91,15 @@ Lo mismo de la etapa de siembra de ideas, adicionando:
 - 1 Desarrollador Web.
 - 1 Diseñador Web.
 - 1 Diseñador gráfico para piezas impresas.
+
+
+## Lanzamiento 26 de febrero *Ref: Vienen Palpitaciones
+
+- 10 cabinas autoamplificadas tipo EON con trípode y cableado para repartir en un espacio de 50x50 metros.
+- Consola Yamaha LS9, Behringer X32.
+- 4 micrófonos de mesa SM48
+- 2 Inalambricos
+- 6 Cajas directas
+- Aislador para repartir señales a radio y TV (8 canales)
+- VideoBeam 10mil lumens
 
