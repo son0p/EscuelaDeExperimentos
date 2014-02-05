@@ -1,7 +1,7 @@
 # Requerimientos de espacio/equipos y horas por mes
 
 ## Capacitación profesores
-*Sede Cantoalegre Martes de 2 a 6pm*
+*Sede Laureles Colegio de Música Martes de 2 a 6pm*
 - Mesa de trabajo para aproximadamente 10 personas. 
 - Monitor(pantalla) de  42 pulgadas.
 - 10 computadores con Linux instalado.
