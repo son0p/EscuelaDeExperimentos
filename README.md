@@ -18,37 +18,9 @@ Para su funcionamiento la escuela usaría y desarrollaría herramientas de sofwa
 Los requerimientos técnicos y logísticos para un ciclo se pueden leer [aquí](requerimientos.md).
 
 
-## Ciclo 0
-
-### Siembra de ideas de aprendices
-
-Se detona la creatividad de los aprendices (en grupos) para que encuentren
-su mejor idea, idea que será desarrollada en el ciclo.
->Tormentas de ideas, tanques de pensamiento, actividades creativas
-
-
-### Producción de ideas
-
-Orientadores y Guías ayudan a los aprendices a preparar su idea para ser socializada.
-
-
-### Difusión y entrenamiento
-
-Aprendices comunican y convocan al evento de socialización y tienen quince días para
-practicar su presentación.
-
-
-### Socialización
-
-Un evento de dos días, con talleres, ponencias y resultados de experiencias,
-se presentan los espectáculos de los estudiantes y participan personas reconocidas
-en música electrónica, artes sonoro, y programación.
-
-
-### Documentación, Manuales, Sonificaciónes y visualizaciones.
-
-
-
 --------------
-
+* [Cronograma](cronograma.md)
+* [Posible Centro de Exploración con sonido](centrodeinvestigacion.md)
+* [Investigación](investigacion.md)
+* [Manual de funciones](manualdefunciones.md)
 
