@@ -1,3 +1,51 @@
+# Escena de medellín
+
+Orden Alfabético
+
+
+* Jose Gallardo
+* M.A.M.I.
+* Mala
+* Miguel Vega (Trance)
+* Voodoo Noise
+
+# Valores
+1. Colaborativo
+2. El todo es más que la suma de las partes
+3. Aprendizaje signigicativo, análisis de contexto, sitematizado,
+lo nuevo a partir de la realidad, anclado.
+4. La meta es el proceso
+5. Aceptación de las diferencias, crear Adaptadores
+
+# Importante
+* Investigación
+* Sistematizacion (que se puedan replicar los procesos)
+* Documentación (memoria que no se pierdan los porcesos)
+* Seguimientos post escuela.
+- Lo que no se dice pero sucede
+- Muchas cosas no se enseñan se forman
+
+
+# ChucK vs ?
+I really like chuck, but compared to csound it's sonic capabilities is less interesting. Development of chuck is also sadly slow, but the syntax is great. You can get more out of supercollider, but i never got into that because of the syntax. But i guess it's just a matter of how much time you can afford to use on learning it.
+
+I started with ChucK and it is simple and is indeed easy to do sample-accurate calculations. Stuff like manual FM is easy but also comes with some great primitives. It's also really good for sampling. There's a library called LiSa that you can build your own loopers with. It also has really interesting flow control ("shreds"). BUT ChucK is extremely simple (actually a strong asset). There is no garbage collection. There's no string processing. If you want to load a data file structured in your own way, you cannot process it without converting it to a ChucK-readable format first. I complained about this on the mailing list and tried writing my own extension to do this but no luck so far.
+
+
+SuperCollider has a steeper initial learning curve (mostly the client-server thing) but once you get over the initial hump, you will discover that it has an even richer set of primitives than ChucK. In particular, there are a lot of filter types to choose from. There's even a full 8-operator FM oscillator. Using a couple noise generators, delays, and filters, you can get some compelling IDM sounds quickly.
+
+I started learning SuperCollider by deconstructing sketches from the SC140 project, where people posted SuperCollider patches in the form of tweets, in less than 140 characters each. They're naturally unformatted, but most are very simple, and there are MP3 examples of each so it makes a good showcase.
+
+Regardless of what tool you use, I recommend 1. making the simplest possible patch (emit a sine wave or similar) 2. Duplicate that patch 3. Make the next patch one step more complicated 4. Repeat steps 2 and 3.
+
+ Amon Tobin's last album, ISAM. Probably not surprising since he used Kyma to create some of the sounds.
+
+# Csound
+ Dr. Richard Boulanger
+ http://flossmanuals.net/csound/ 
+Csound Power! by Jim Aikin video youtube.
+
+
 
 ---
 María:  pues hay uno que se llama Garabatrónicos
@@ -37,6 +85,8 @@ http://toplap.org/
 
 
 ## Software
+Overtone : SuperCollider + Clojure
+http://overtone.github.io/
 
 https://github.com/yaxu/Tidal/blob/master/doc/tidal.md
 
