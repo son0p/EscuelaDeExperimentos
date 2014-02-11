@@ -2,11 +2,15 @@
 
 Orden Alfabético
 
-
+* Blue Art Musique
+* Goes
 * Jose Gallardo
 * M.A.M.I.
 * Mala
 * Miguel Vega (Trance)
+* Neuma
+* Protov
+* Velez
 * Voodoo Noise
 
 # Valores
