@@ -2,16 +2,30 @@
 
 Orden Alfabético
 
+
+* Alex Armes
+* Astronaut
+* Astronomical Telegram
 * Blue Art Musique
+* Danniel Odell
 * Goes
+* Green Revolution
+* Joed Kleem
 * Jose Gallardo
 * M.A.M.I.
 * Mala
+* Miguel Duque
 * Miguel Vega (Trance)
-* Neuma
+* Morris
+* Neuma 
 * Protov
+* The Forest (Experimental)
 * Velez
+* Vandelklang
 * Voodoo Noise
+
+
+
 
 # Valores
 1. Colaborativo
