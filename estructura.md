@@ -10,7 +10,7 @@ Con la llegada de los secuenciadores por patrones, como las 808,909, 303, y lueg
 * Seq24
 * teqq
 
-## Formas fijas
+## Lineal
 
 La fijación de la música (partitura, grabación) trae las estructuras inmutables, como la canción, generos que usan esta manera de producir: House, Drum&Bass, IDM 
 
@@ -19,7 +19,7 @@ La fijación de la música (partitura, grabación) trae las estructuras inmutabl
 * Qtractor (Audio + Midi)
 * Rosegarden (Midi)
 
-## Generativa y Algoritmos
+## Algoritmos
 Musica generada por algoritmos que toman desiciones o interactuan, los inicios podrían estar en los organos de casa, luego las organetas, y luego aplicaciones como Band in a Box que prometía un acompañamiento generado por computador. Actualmente la música generativa es usa mucho en instalaciones de audio permanentes, aplicaciones en dispositivos móviles, y el arte sonoro.
 
 ### Herramientas en linux
