@@ -6,6 +6,7 @@ las charlas de Divulgación.
 ### Introducción a ChucK
 ### Entender Música electrónica
 ### Git y herramientas de colaboración
+### Processing
 
 ## Formación Formadores Cantoalegre
 ### Cuadratura, Ritmo, Melodía
