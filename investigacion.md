@@ -24,7 +24,7 @@ Orden Alfabético
 * Vandelklang
 * Voodoo Noise
 
-
+http://monofonicos.net/artistas/
 
 
 # Valores
