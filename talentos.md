@@ -77,11 +77,11 @@ Contacto: https://www.facebook.com/blueartmusique?fref=ts
 
 *Renato Fabbri* Código en vivo y software de autoregulación de comunidades.
 
-*Alexandra Cardenas* http://cargocollective.com/tiemposdelruido/music
+*Alexandra Cardenas* Live coding, SuperCollider http://cargocollective.com/tiemposdelruido/music
 
 *Juan Reyes*
 
-*Andrés Cabrera*
+*Andrés Cabrera* Csound
 
 *Andrés Mayo* Ingeniería de sonido
 
