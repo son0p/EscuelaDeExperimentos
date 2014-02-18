@@ -7,26 +7,43 @@
 - Verificar y orienta a  los aprendices en la  documentación de cada proceso de manera que le sirva a otros.
 - Usar GitHub, IRC, Google Docs para corrdinar los procesos tanto con los estudiantes como con los otros talentos, facilitadores y expertos.
 - Presentar, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
-- Asitir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
-- Asisir a las capacitaciones que planteé la dirección pedagógico.
+- Asistir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
+- Asistir a las capacitaciones que planteé la dirección pedagógico.
 
 
 ## Expertos de base:
 `Código`
-- Enseñar algoritmos para la generación de sonidos/música.
-- Enseñar lenguajes de programación para audio como: ChucK, Python, Javascript, SuperCollider, Pure Data.
+- Enseñar algoritmos para la generación de sonidos/música/imágenes.
+- Enseñar lenguajes de programación para audio/imágenes como: Processing, OF, ChucK, Python, Javascript, SuperCollider, Pure Data.
+- Explorar y entender las herramientas de producción sonora e imágenes en GNU/Linux.
 - Asesorar a los aprendices en los temas de su especialidad.
+- Generar espacios de escucha crítica para mostrar y explicar referentes de su especialidad.
 - Hacer talleres  de introducción a su especialidad.
-- Documentar sus procesos y coordinar la documentación de su especialidad.
+- Hacer conferencias de divulgación pública sobre su especialidad.
+- A travez de GitHub, documentar sus procesos y coordinar la documentación de aprendices en su especialidad.
+- Presentar, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
+- Asistir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
+- Asistir a las capacitaciones que planteé la dirección pedagógico.
+
+
 
 
 `Circuitos`
 - Resuelve las dudas en  bases de electrónica.
-- Enseña a hacer sonidos con  jugetes sonoros modificados (Circuit Bendig).
+- Enseña a hacer sonidos con  juguetes sonoros modificados (Circuit Bendig).
 - Enseña a hacer sintentizadores y secuenciadores análogos básicos.
+- Explorar y entender las herramientas de producción musical en GNU/Linux.
 - Hacer talleres  de introducción a su especialidad.
+- Hacer conferencias de divulgación pública sobre su especialidad.
 - Asesorar a los aprendices en los temas de su especialidad (Electrónica básica orientada a audio)
-- Documentar sus procesos y coordinar la documentación de su especialidad.
+- Generar espacios de escucha crítica para mostrar y explicar referentes de su especialidad.
+- A travez de GitHub, documentar sus procesos y coordinar la documentación de aprendices en su especialidad.
+- Presentar, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
+- Asistir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
+- Asistir a las capacitaciones que planteé la dirección pedagógico.
+
+
+
 
 `Diseño Sonoro`
 - Resuelve las dudas sobre sonido.
@@ -44,8 +61,23 @@
      
 `Comunicación`:Entiende de las comunicaciones en Nichos y sub-culturas, domina las herramientas de comunicación, y sabe guiar a los aprendices en la manera de comunicarse con la gente que habita sus propuestas.
      
-`Generos de Musica electrónica`: Entiende semántica y musicalmente los diferentes géneros(particularmente Dubstep, Techno, IDM) esta capacitado en guiar a los aprendices en una escucha crítica
-     
+`Generos de Musica electrónica`:
+- Entender semántica y musicalmente los diferentes géneros(particularmente Dubstep, Techno, IDM, Drum & Bass, Trance)
+- Diseñar ejercicios para el mejor entendimiento de los géneros músicales.
+- Entender y enseñar las técnicas de producción los géneros, sintesis, programación de ritmos, etc. 
+- Explorar y entender las herramientas de producción musical en GNU/Linux.
+- Hacer talleres  de introducción a su especialidad.
+- Hacer conferencias de divulgación pública sobre su especialidad.
+- Asesorar a los aprendices en los temas de su especialidad.
+- Generar espacios de escucha crítica para mostrar y explicar referentes de su especialidad.
+- A travez de Github documentar sus procesos y coordinar la documentación de aprendices en su especialidad.
+- Presentar, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
+- Asitsir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
+- Asistir a las capacitaciones que planteé la dirección pedagógico.
+
+
+
+
 `Bases musicales`: Tiene habilidades pedagógicas para enseñar las bases de ritmo, armonía, lecto-escritura de música.
      
 
