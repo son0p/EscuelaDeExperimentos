@@ -25,9 +25,6 @@
 - Asistir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
 - Asistir a las capacitaciones que planteé la dirección pedagógico.
 
-
-
-
 `Circuitos`
 - Resuelve las dudas en  bases de electrónica.
 - Enseña a hacer sonidos con  juguetes sonoros modificados (Circuit Bendig).
@@ -41,25 +38,6 @@
 - Presentar, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
 - Asistir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
 - Asistir a las capacitaciones que planteé la dirección pedagógico.
-
-
-
-
-`Diseño Sonoro`
-- Resuelve las dudas sobre sonido.
-- Enseña el uso de Ardour y sus plugins.
-- Enseña las herramientas de software para audio disponibles en linux.
-- Ayuda a los aprendices a generar y analizar sonidos.
-- Hacer talleres  de introducción a su especialidad (Escucha crítica).
-- Asesorar a los aprendices en los temas de su especialidad.
-- Documentar sus procesos y coordinar la documentación de su especialidad.
-  
-`Arte y Concepto`: Esta capacitado en ayudar a los aprendices a justificar conceptualmente sus propuestas en el ámbito del arte sonoro.
-- Ayuda a los aprendices a construir y justificar conceptualmente sus ideas.
-- Enseña a relacionar las ideas de los aprendices con las corrientes y tendencias del arte.
-- 
-     
-`Comunicación`:Entiende de las comunicaciones en Nichos y sub-culturas, domina las herramientas de comunicación, y sabe guiar a los aprendices en la manera de comunicarse con la gente que habita sus propuestas.
      
 `Generos de Musica electrónica`:
 - Entender semántica y musicalmente los diferentes géneros(particularmente Dubstep, Techno, IDM, Drum & Bass, Trance)
@@ -75,10 +53,28 @@
 - Asitsir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
 - Asistir a las capacitaciones que planteé la dirección pedagógico.
 
+`Diseño Sonoro`
+- Resuelve las dudas sobre sonido.
+- Enseña el uso de Ardour y sus plugins.
+- Enseña las herramientas de software para audio disponibles en linux.
+- Ayuda a los aprendices a generar y analizar sonidos.
+- Hacer talleres  de introducción a su especialidad (Escucha crítica).
+- Asesorar a los aprendices en los temas de su especialidad.
+- Documentar sus procesos y coordinar la documentación de su especialidad.
+  
+`Arte y Concepto`:
+- Esta capacitado en ayudar a los aprendices a justificar conceptualmente sus propuestas en el ámbito del arte sonoro.
+- Ayuda a los aprendices a construir y justificar conceptualmente sus ideas.
+- Enseña a relacionar las ideas de los aprendices con las corrientes y tendencias del arte.
+
+     
+`Comunicación`:
+- Entiende de las comunicaciones en Nichos y sub-culturas, domina las herramientas de comunicación,
+- sabe guiar a los aprendices en la manera de comunicarse con la gente que habita sus propuestas.
 
 
-
-`Bases musicales`: Tiene habilidades pedagógicas para enseñar las bases de ritmo, armonía, lecto-escritura de música.
+`Bases musicales`:
+- Tiene habilidades pedagógicas para enseñar las bases de ritmo, armonía, lecto-escritura de música.
      
 
 
