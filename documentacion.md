@@ -1,9 +1,9 @@
 # Documentación
 
 ## Estructura de la documentación
-La documentación de lo que aprendemos y vamos a compartir puede tener Tres
+La documentación de lo que aprendemos y vamos a compartir puede tener tres
 niveles, Divulgación, Prácticas, Profundización que explicaremos mas adelante.
-Sería importante hacer los documentos en un sitio público de contról de
+Sería importante hacer los documentos en un sitio público de control de
 versiones y sugerimos GitHub por la posibilidad de colaboración y las
 herramientas como Issues, colaboradores etc.
 
@@ -15,21 +15,21 @@ responder  preguntas de este tipo:
 * ¿Para qué sirve en la vida cotidiana (o no tan cotidiana)?
 * ¿Qué problema intenta resolver?
 * ¿Porqué es importante para nuestro contexto aprender de eso?
-* ¿Quienes (de nuestro contexto) estan trabajando este tema, y que los
+* ¿Quienes (de nuestro contexto) están trabajando este tema, y que los
 caracteriza.?
 
 
 ### Prácticas
-La función someter a los apredices a una serie de problemas que deben solucionar
+La función someter a los aprendices a una serie de problemas que deben solucionar
 con las herramientas que la temática les provee.
-Se puede hacer un gión de los aspectos que se quieren enseñar de la temática
+Se puede hacer un guión de los aspectos que se quieren enseñar de la temática
 y luego para cada aspecto diseñar un problema para ser resuelto con las
 herramientas que se han dado hasta el momento, puede ser retroactivo,
 es decir, el tercer problema puede usar herramientas del primer y segundo
 problema.
 
 ### Profundización
-Esta parte prentende tener un profundo de una o varios aspectos de la temática
+Esta parte pretende tener un profundo de una o varios aspectos de la temática
 tratada, de manera que se puedan encontrar usos inesperados.
 Se busca también acá referenciar expertos, y recursos de profundización como
 tutoriales, sitios web, comunidades de expertos.
