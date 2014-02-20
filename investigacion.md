@@ -221,3 +221,18 @@ http://wiki.nosdigitais.teia.org.br/Lab_Macambira
 
 http://sourceforge.net/projects/labmacambira/
 codigo de algoritmos regulatorios
+
+
+
+# Pedagogía
+
+buscar actividades que ayuden al alumno a manifestar lo que siente, comprenderlo y empatizar con sus compañeros.
+
+Algunos ejemplos son:
+
+    “¿Cómo me siento?”: consiste, simplemente, en que los pequeños expresen en pocas palabras y de forma sencilla su estado emocional, verbalmente o por escrito.
+    “Me cuido y me cuidan”: se trata de inducirles a hacer acciones para los demás y, al mismo tiempo, a sentirse bien y agradecidos por las que reciban.
+    Análisis del enfado: así como es útil para los niños expresar las cosas que les hace sentir bien, es muy importante que analicen correctamente lo que les hace sentir mal. Una actividad práctica, por ejemplo, sería invitar a un alumno a que exprese en qué situaciones se enfada, cómo nota que está enfadado, qué siente cuando son los demás los que se enfadan, etc.
+    La “receta emocional”: un ejercicio curioso y original, en el cual cada alumno debe escribir una receta, preparada a partir de unos “ingredientes emocionales” elegidos por él mismo. Es importante que él mismo explique los motivos por los que ha hecho la selección y que comente el resultado.
+
+En la adolescencia, contra lo que pueda parecer, los alumnos aún son emocionalmente dependientes, pues se trata de una etapa muy inestable.  La clave es que comprenda que está empezando a convertirse en un adulto, y no en un adolescente con éxito.
