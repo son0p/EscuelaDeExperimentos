@@ -1,9 +1,8 @@
 # Herramientas que usaremos para colaboración:
-- Github
-  Guias: http://guides.github.com/
-  https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github
-  
-
+## Github
+- Guias: http://guides.github.com/
+-  https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github
+- Presentación de GitHub para enseñar http://training.github.com/materials/
 
 # Operaciónes que podrían ser facilitadas por software
 
