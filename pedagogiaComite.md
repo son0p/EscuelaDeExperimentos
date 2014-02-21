@@ -70,7 +70,8 @@ Prepara al niño en su musicalidad, enseña de manera vivencial-.
 
 ## Cartilla teoríamusical
 
-## Real  Book  Colombiano  Lleva  la  melodía,  la  cifra  y  links  a
+## Real  Book  Colombiano
+Lleva  la  melodía,  la  cifra  y  links  a
 versiones.
 
 ## Cancionero para músicos por casa
