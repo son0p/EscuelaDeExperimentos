@@ -1,5 +1,7 @@
-2013 02 18 09 00 Reunidos  Tita Maya, Raul Maya, Daniel Crow, Mauricio
-Estrada, Jose Tobón.
+2013 02 18 09 00
+
+Reunidos  Tita Maya, Raul Maya, Daniel Crow, Mauricio
+Estrada, Jose Tobón, Federico López.
 
 # Tareas
 - Límites y funciones de cada casa.
@@ -9,7 +11,7 @@ Estrada, Jose Tobón.
 - Currículo de cada casa usando el del colegio como referencia.
 - Preguntarse "Qué empezaría a enseñarle a un niño de 7 años?"
 
-
+---
 # Metodo
 - Apunta a desarrollar musicalidades.
 - Ayuda a contruir ciudadanía.
@@ -22,7 +24,7 @@ formal.
 - La importancia de tener métodos específicos como arrelgos de
 brass para Funk, o ensambles de coros para Pop.
 
-
+---
 # Currículo
 
 Se definió como unos contenidos y unos niveles que se cruzan.
@@ -31,7 +33,7 @@ ver en 15 años?
 - Que el currículo ayude a construir hábitos.
 - Existen materias y énfasis.
 
-
+---
 # Filosofía
 - Las casas de la música como medio para formar individuos.
 - Diferenciamos la expresión  de la improvisación, del estílo  y de la
@@ -53,10 +55,12 @@ al comer.
 - Orf plantea tempos relativos.
 - La música es como un lenguaje donde se puede Hablar, Oír, Escribir, Leer.
 
+---
+# Cartillas
+Estudiamos  la  posibilidad  de  hacer  un  esqueleto  de
+cartilla para  que cada género  siga el  método con sus  ejemplos.
 
-# Cartillas  Estudiamos  la  posibilidad  de  hacer  un  esqueleto  de
-cartilla para  que cada género  siga el  método con sus  ejemplos.  ##
-Prelectura
+##Prelectura
 
 Prepara al niño en su musicalidad, enseña de manera vivencial-.
 
@@ -71,6 +75,7 @@ versiones.
 
 ## Cancionero para músicos por casa
 
+---
 # Cronograma
 - 5 Marzo casa de PopRockJazz.
 - 12 Marzo electrónicas extrañas.
