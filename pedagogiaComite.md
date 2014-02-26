@@ -76,6 +76,12 @@ versiones.
 
 ## Cancionero para músicos por casa
 
+## Manual del maestro
+
+Como se toca el género, la estructura macro del tema objetivo, que ejercicios pueden ayudar a coger la canción , ejercicios corporales, que nuevas destrezas hay que tener?
+Trate que en sus clases siempre haya estas cosas
+
+
 ---
 # Cronograma
 - 5 Marzo casa de PopRockJazz.
@@ -84,3 +90,108 @@ versiones.
 - 26 Marzo Daniel
 
 
+----------
+---
+---
+
+# Comité Filosófico
+
+Luis Fernando Franco, Tita Maya, Cesar López, Maria del Rosario Escobar, Federico López, 
+## Filosofía
+- que elementos tengo que tener como individuo para salir al encuentro de una música o propuesta, a la vez .. como meterle informacion que le permita salir al encuentro, y como usar la info por defecto,
+- la música  puede tener unas sesibilidades preestabelecidas, pricologia de la musica
+
+Las casas son un espacio abierto para uno encontrarse! paso de rock a electrónica.
+
+
+## Pedagogía
+Waldorf habla de `tallar` que sería quitar lo que sobra para obtener la forma deseada, `Moldear` poniendo lo necesario, y `Tejer` como unir lo necesario para la forma.
+No tanto dar el pesacado ni tampoco enseñar a pescar, es quizá desarrollar lo que llama la `voluntad` o sea detonar el deseo de querer hacer/aprender algo.
+
+La lectura es lo que posibilita el ensamble! cantar.
+
+Macro Curriculo
+
+Meso Curriculo
+
+Micro curriculo
+
+
+## Referentes
+* "Música sonido y conciencia" de carlos (freigman?)
+
+----
+
+fer cesar tita
+
+Error, equivocacion, mutliples formas de la equivocación. rubateo, tolerancia al error
+
+
+- contextualizar los espacios sonoramente
+
+tension distensión
+
+duración
+altura
+densidad
+color
+transientes
+espacialidad
+
+
+Que debe ser un profesor?
+
+# Ensamble
+
+lo que se valora en un ensamble .. que escuchen.
+venimos de una formacion individualizada, el ensamble permite asimilar, darle ulna lectura a la naturaleza a estas músicas, se empez´o a producir en la casa, con el plan decenal de cultura, donde se propuso aprender tocando, validaron otros epacios, la manga la cancha , el garaje.
+también se dio la oportunidad las practicas llevan al conocimiento, no hay que hacer 8 años de armonia contraputno y luego componer.
+La practica de ensable es un generador de motivación hacia el conocimiento.
+
+facilitar herramientas pedagófica
+
+
+Resilencia tema del ensamble
+siete veces te caes ochoveces te levantas
+qué optica
+eramos el piso, eramos el viento, el narrador
+evento futuro.. alguien va a caer
+
+la verosilimitud, una cicatríz
+
+partir de un guión
+
+resilencia, mirarladesde puntos de vista diferentes
+
+miradas del piso,
+el que cae solo y se levanta solo
+
+el ve caer a otro y no hace nada
+
+
+Fronteras invisibles
+Yo me equivoco mejor
+Aquí si hay allá no hay
+
+
+
+
+
+distinta la sonoridad a la de levantarse
+tonica sentado
+quinto semiparado
+cuarto parado
+
+
+juego ..ciclo repetitivo
+dos enfrentados
+ritmo se repite con elemento sorpresa
+situació mántrica
+
+
+la música trascienda el oído, que sea la música cuerṕo
+moles rítmicas que generan contextos, binario terciario
+cultural solares culturas lunares
+identificar con una célula que se integra al ensamble
+buscar la corporalidad
+construir mo
