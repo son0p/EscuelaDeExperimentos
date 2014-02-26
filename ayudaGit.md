@@ -2,7 +2,7 @@ Verifico si tengo GIT
 
 	git --version
 
-Si no lo tiene vaya aquí hay instrucciones en: [Español](http://git-scm.com/book/es/Empezando-Instalando-Git)[Inglés](https://help.github.com/articles/set-up-git)
+Si no lo tiene vaya aquí hay instrucciones en: [Español](http://git-scm.com/book/es/Empezando-Instalando-Git)   [Inglés](https://help.github.com/articles/set-up-git)
 
 Clonar un repositorio:
 
