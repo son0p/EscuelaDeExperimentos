@@ -12,7 +12,8 @@
 
 ## Algunos quieren saber
 - Arte sonoro
-- Genero música electrónica
+- [Generos música electrónica](https://github.com/electropipe/ELECTROCHARLA-)
 - Circuit Bending
-- Código Imágen (processing)
+- Código Imágen [(processing)](https://github.com/Kaziuz/Processing-Getting-Started)
 - Codigo Sonido (ChucK)
+- [Control del ruido](https://github.com/rotativa/controlDelRuido)
