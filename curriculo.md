@@ -1,19 +1,49 @@
 # Currículo Electronicas extrañas
 
-## Todos deberíamos saber
-- Prelectura
-- Lectura musical
-- Teoría musical
-- Escucha crítica
-- Restricciones
-- Distracciones
-- Catalizadores
-- Agruparciónes
+## Nuestras bases
+- Música
+  - Composición
+  - Prelectura
+  - Lectura musical
+  - Teoría musical
+  - Escucha crítica
+  
+- Trabajar en grupo
+  -	Restriciones/Distracciones/Catalizadores
 
-## Algunos quieren saber
+- Investigación
+- Documentación
+
+---
+
+## Énfasis
 - Arte sonoro
+
+- Interfaces
+  - [Control del ruido](https://github.com/rotativa/controlDelRuido)
+  - Microcontroladores
+  
 - [Generos música electrónica](https://github.com/electropipe/ELECTROCHARLA-)
-- Circuit Bending
-- Código Imágen [(processing)](https://github.com/Kaziuz/Processing-Getting-Started)
-- Codigo Sonido (ChucK)
-- [Control del ruido](https://github.com/rotativa/controlDelRuido)
+  - Trance
+  - Techno
+  - Dubstep
+  - 8bit
+  - Ambient
+  - Generativa
+  - IDM
+  
+- Electrónica y Electricidad
+  - Circuit Bending
+  - Sensores
+  - Motores
+  
+- Código Imágen 
+  - [(processing)](https://github.com/Kaziuz/Processing-Getting-Started)
+  - Open Frameworks
+  - D3
+  
+- Codigo Sonido 
+  - Chuck
+  - Csound
+  - SuperCollider
+  - PureData
