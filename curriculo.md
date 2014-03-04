@@ -37,12 +37,12 @@
   - Sensores
   - Motores
   
-- Código Imágen 
+- Código Imagen 
   - [(processing)](https://github.com/Kaziuz/Processing-Getting-Started)
   - Open Frameworks
   - D3
   
-- Codigo Sonido 
+- Código Sonido 
   - Chuck
   - Csound
   - SuperCollider
