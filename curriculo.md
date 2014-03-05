@@ -41,7 +41,7 @@
   - Sensores / Motores
      
 ### Código Imagen 
-  - [processing](https://github.com/Kaziuz/Processing-Getting-Started)
+  - [Processing](https://github.com/Kaziuz/Processing-Getting-Started)
   - Open Frameworks
   - D3
   - Iluminación DMX
