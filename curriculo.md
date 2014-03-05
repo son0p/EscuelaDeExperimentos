@@ -14,7 +14,6 @@
   
 ### Investigación
 
-### Composición
 
 ### Documentación
 
