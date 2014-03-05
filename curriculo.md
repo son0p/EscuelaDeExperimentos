@@ -1,49 +1,52 @@
 # Currículo Electronicas extrañas
 
 ## Nuestras bases
-- Música
+### Música
   - Composición
   - Prelectura
   - Lectura musical
   - Teoría musical
   - Escucha crítica
   
-- Trabajar en grupo
+### Trabajar en grupo
   -	Restriciones/Distracciones/Catalizadores
+  - Ensambles
+  
+### Investigación
 
-- Investigación
-- Documentación
+### Composición
+
+### Documentación
 
 ---
 
 ## Énfasis
-- Arte sonoro
-
-- Interfaces
-  - [Control del ruido](https://github.com/rotativa/controlDelRuido)
-  - Microcontroladores
-  
-- [Generos música electrónica](https://github.com/electropipe/ELECTROCHARLA-)
+### [Generos música electrónica](https://github.com/electropipe/ELECTROCHARLA-)
   - Trance
   - Techno
   - Dubstep
   - 8bit
-  - Ambient
   - Generativa
-  - IDM
-  
-- Electrónica y Electricidad
+ 
+### Código Sonido 
+  - Chuck
+  - PureData
+
+### Interfaces
+  - [Control del ruido](https://github.com/rotativa/controlDelRuido)
+  - Microcontroladores
+  - Protocolos de interconexión (MIDI, OSC, ZeroMq, Ethernet, AvB)
+
+### Electrónica y Electricidad
   - Circuit Bending
-  - Sensores
-  - Motores
-  
-- Código Imagen 
-  - [(processing)](https://github.com/Kaziuz/Processing-Getting-Started)
+  - Sensores / Motores
+     
+### Código Imagen 
+  - [processing](https://github.com/Kaziuz/Processing-Getting-Started)
   - Open Frameworks
   - D3
+  - Iluminación DMX
   
-- Código Sonido 
-  - Chuck
-  - Csound
-  - SuperCollider
-  - PureData
+
+  
+
