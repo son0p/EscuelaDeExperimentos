@@ -34,4 +34,9 @@ tratada, de manera que se puedan encontrar usos inesperados.
 Se busca también acá referenciar expertos, y recursos de profundización como
 tutoriales, sitios web, comunidades de expertos.
 
+### Rutinas de estudio
+Una guia para el estudio diario de una disciplina, orientada a los aprendices que 
+quieren avanzar desde su casa con una hora de práctica diaria.
+
+
 
