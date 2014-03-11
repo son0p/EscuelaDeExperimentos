@@ -21,9 +21,10 @@
 
 ## Énfasis
 ### [Generos música electrónica](https://github.com/electropipe/ELECTROCHARLA-)
-  - Trance
+  - [Trance](https://github.com/electropipe/musicaElectronica/blob/master/trance.md)
+  - [Drum & Bass](https://github.com/electropipe/musicaElectronica/blob/master/drumBass.md)
   - Techno
-  - Dubstep
+  - [Dubstep](https://github.com/electropipe/musicaElectronica/blob/master/dubstep.md)
   - 8bit
   - Generativa
  
