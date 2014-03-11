@@ -19,8 +19,5 @@ Los requerimientos técnicos y logísticos para un ciclo se pueden leer [aquí](
 
 
 --------------
-* [Cronograma](cronograma.md)
-* [Posible Centro de Exploración con sonido](centrodeinvestigacion.md)
-* [Investigación](investigacion.md)
-* [Manual de funciones](manualDeFunciones.md)
+* [Curriculo](curriculo.md)
 
