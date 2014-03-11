@@ -28,7 +28,7 @@
   - Generativa
  
 ### Código Sonido 
-  - Chuck
+  - [Chuck](https://github.com/son0p/introduccionChucK)
   - PureData
 
 ### Interfaces
@@ -37,7 +37,7 @@
   - Protocolos de interconexión (MIDI, OSC, ZeroMq, Ethernet, AvB)
 
 ### Electrónica y Electricidad
-  - Circuit Bending
+  - [Circuit Bending](https://github.com/DanielLuna/circuitBending)
   - Sensores / Motores
      
 ### Código Imagen 
