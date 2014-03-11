@@ -25,6 +25,7 @@
   - [Drum & Bass](https://github.com/electropipe/musicaElectronica/blob/master/drumBass.md)
   - Techno
   - [Dubstep](https://github.com/electropipe/musicaElectronica/blob/master/dubstep.md)
+  - [Dub](https://github.com/electropipe/musicaElectronica/blob/master/dub.md)
   - 8bit
   - Generativa
  
