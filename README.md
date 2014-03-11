@@ -3,6 +3,10 @@
 
 
 ----
+
+#### [Curriculo](curriculo.md)
+
+---- 
 Se plantean ciclos de tres meses donde los aprendices se agrupan para plantear
 sus ideas, las producen con la ayuda de los  orientadores y guías, y finalmente
 las socializan en eventos públicos. [(propuesta de estructura)](estructura.md)
@@ -19,5 +23,5 @@ Los requerimientos técnicos y logísticos para un ciclo se pueden leer [aquí](
 
 
 --------------
-* [Curriculo](curriculo.md)
+ 
 
