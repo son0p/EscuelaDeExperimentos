@@ -3,19 +3,26 @@
 ## Nuestras bases
 ### Música
   - Composición
-  - Prelectura
-  - Lectura musical
+  - Códigos de lectoescritura
+  - Entrenamiento rítmico
   - Teoría musical
   - Escucha crítica
   
-### Trabajar en grupo
+### Ensamble y grupo de proyección
   -	Restriciones/Distracciones/Catalizadores
-  - Ensambles
+  - Repertorio
   
-### Investigación
+### Investigación y Documentación
+- Archivo local
+- Divulgación
+- Prácticas
+- Rutinas de estudio
+- Profundización
 
-
-### Documentación
+### Desarrollo creativo
+- Composición
+- Creación literaria
+- Interpolaciones
 
 ---
 
