@@ -1,3 +1,15 @@
+
+* rolling stone
+* clubes de audición
+* lucas
+* Normas constitutivas normas regulativas
+* canon relacionado con la teoría de la recepción
+* maestría de la creación literaria
+* teoría de la recepción (importancia al receptor)
+
+
+
+
 2013 02 18 09 00
 
 Reunidos  Tita Maya, Raul Maya, Daniel Crow, Mauricio
