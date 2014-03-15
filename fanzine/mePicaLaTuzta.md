@@ -15,7 +15,7 @@ Aquí escribiremos nuestros aportes al fanzine, para luego hacerlo en papel.
 4. vocación como forma de educación expandida.
 
 => Johnny: Es que a lo bien que uno nace para ciertas cosas ¿ no ?. En este grupo de trabajo pensamos así desde que éramos más jóvenes. 
-Este tipo de educación antes era llamada educación no formal, pero ahora la alcaldía de medellín toma estos procesos extracurriculares (Osea esas cosas que aprendes por tu cuenta, por gusto y pasión con tus amistades o simplemente porque te da la gana) y los llama educación vocacional, eso quiere decir que estos manes que manejan nuestros dineros se estan pillando todo este brote de nuevos músicos y artistas emergentes de la ciudad, y están destinando algunos dineros para montar guaridas donde nos podamos reunir a aprender y compartir todo eso que tanto nos gusta.
+Este tipo de educación antes era llamada educación no formal, pero ahora unos expertos del ministerio de cultura toma estos procesos extracurriculares (Osea esas cosas que aprendes por tu cuenta, por gusto y pasión con tus amistades o simplemente porque te da la gana) y los llama educación vocacional, eso quiere decir que estos manes que manejan nuestros dineros se estan pillando todo este brote de nuevos músicos y artistas emergentes de la ciudad, y están destinando algunos dineros para montar guaridas donde nos podamos reunir a aprender y compartir todo eso que tanto nos gusta.
 
 
 5. Géneros de la música electrónica.
