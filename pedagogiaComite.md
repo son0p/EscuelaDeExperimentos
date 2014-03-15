@@ -1,3 +1,14 @@
+* rolling stone
+* clubes de audición
+* lucas
+* Normas constitutivas normas regulativas
+* canon relacionado con la teoría de la recepción
+* maestría de la creación literaria
+* teoría de la recepción (importancia al receptor)
+
+
+
+
 2013 02 18 09 00
 
 Reunidos  Tita Maya, Raul Maya, Daniel Crow, Mauricio
@@ -10,8 +21,6 @@ Estrada, Jose Tobón, Federico López.
   alfabético).
 - Currículo de cada casa usando el del colegio como referencia.
 - Preguntarse "Qué empezaría a enseñarle a un niño de 7 años?"
-- Recoger todos los juegos rítmicos
-- Pillar las cartillas del ministerio.
 
 ---
 # Metodo
@@ -56,14 +65,8 @@ manera de hacerlo es plantearlo como un juego con reglas.
 al comer.
 - Orf plantea tempos relativos.
 - La música es como un lenguaje donde se puede Hablar, Oír, Escribir, Leer.
-- Un compositor invitado para hacer un ensamble de todas las casas.
-- Escribir en entidades básicas, bajos, medios altos, percusión, ligados, tonos.
-- Aprender Haciendo
-- Deje que el niño se sienta cómodo.
-' Mural que tenga los valores / diccionario / enciclopedia
 
 ---
-
 ## Teoríamusical
 ##Prelectura
 ### Cartillas Lecturas 1 y 2
@@ -94,7 +97,29 @@ Minimo cuatro líneas
 * Estudio media hora
 * Videos
 
----
+
+
+# Cartillas
+Estudiamos  la  posibilidad  de  hacer  un  esqueleto  de
+cartilla para  que cada género  siga el  método con sus  ejemplos.
+
+##Prelectura
+
+Prepara al niño en su musicalidad, enseña de manera vivencial-.
+
+## Énfasis
+
+## Cartillas Lectura musical
+
+## Cartilla teoríamusical
+
+## Real  Book  Colombiano
+Lleva  la  melodía,  la  cifra  y  links  a
+versiones.
+
+## Cancionero para músicos por casa
+
+## Manual del maestro
 
 Como se toca el género, la estructura macro del tema objetivo, que ejercicios pueden ayudar a coger la canción , ejercicios corporales, que nuevas destrezas hay que tener?
 Trate que en sus clases siempre haya estas cosas
@@ -121,33 +146,10 @@ Luis Fernando Franco, Tita Maya, Cesar López, Maria del Rosario Escobar, Federi
 
 Las casas son un espacio abierto para uno encontrarse! paso de rock a electrónica.
 
-Lo primero es SONAR .. luego la lectoescritura.. es un proceso posterior!
-Primero TOCAR luego codificar a la manera personal, luego
-
-El Ensamble es vital .. y desde ahi se va al individio.
-
-El individuo va decodificando lo del ensamble.
-
-Uno es la estrategia de choche con los analfabetas .. pero luego se puede tener gente ya leyendo.
-
-El ensamble es entretenido, risa diversiíon, y trabajo grupal.
-
-Mas libro de competancias que de técnicas
-
-El el colegio se ha aprovechado mucho los juegos rítmicos!
-
-Los procesos que hagamos y la música debe tener unas buenas conexiones con la realidad.
-
-¿Cómo preconsebirme para afinarme?
-La nota como la afinación individual, la melodía como el desarrollo en el tiempo de esa afinación, el `resonar` como la empatía con otros entes, los `arm[o
-
-
 
 ## Pedagogía
 Waldorf habla de `tallar` que sería quitar lo que sobra para obtener la forma deseada, `Moldear` poniendo lo necesario, y `Tejer` como unir lo necesario para la forma.
 No tanto dar el pesacado ni tampoco enseñar a pescar, es quizá desarrollar lo que llama la `voluntad` o sea detonar el deseo de querer hacer/aprender algo.
-
-Se habla de la Sonosfera y de la importancia de afinar el individuo
 
 La lectura es lo que posibilita el ensamble! cantar.
 
@@ -157,19 +159,9 @@ Meso Curriculo
 
 Micro curriculo
 
-Empezar con una línea, dos líneas, tres líneas, cuatro líneas.
-
-Tener capítulo de ensambles con un repositorio de varios ensambles.
-
-Prelectura sumatoria de celulas rítmicas pequeñas. oficio de bajo, metal, gloken
-La primera lectura son palabras, luego de palabras se pone en código, hay mediaciones .. traductores, que hacen todo el ejercicio, 
-Ensables con frutas, dibujos y tarjetas, tarjetas de letras y tarjetas de imaginarios.
-
-Motor ritmico todo piñones, cual es elemento de sincronía, como se encadenan los elementos.
 
 ## Referentes
-* "Música sonido y conciencia" de Carlos Fregtman
-* Cartillas de inicicación musical del ministerio
+* "Música sonido y conciencia" de carlos (freigman?)
 
 ----
 
@@ -246,6 +238,3 @@ cultural solares culturas lunares
 identificar con una célula que se integra al ensamble
 buscar la corporalidad
 construir mo
-
-
-
