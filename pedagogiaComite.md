@@ -1,4 +1,3 @@
-
 * rolling stone
 * clubes de audición
 * lucas
@@ -68,6 +67,38 @@ al comer.
 - La música es como un lenguaje donde se puede Hablar, Oír, Escribir, Leer.
 
 ---
+## Teoríamusical
+##Prelectura
+### Cartillas Lecturas 1 y 2
+
+## Cancioneros
+Lleva  la  melodía,  la  cifra  y  links  a
+versiones.
+### Cancionero para músicos por casa
+### Cartillas infantiles
+### Real  Book  Colombiano
+
+## Énfasis
+### Electrónica
+### Guitarra
+### Teclado
+### Percusión
+
+## Ludicas
+
+## Manual del maestro
+
+## Ensables
+Minimo cuatro líneas
+### Coral, ensamble corporal
+
+## Materiales para estudio en casa
+* Habitos
+* Estudio media hora
+* Videos
+
+
+
 # Cartillas
 Estudiamos  la  posibilidad  de  hacer  un  esqueleto  de
 cartilla para  que cada género  siga el  método con sus  ejemplos.
