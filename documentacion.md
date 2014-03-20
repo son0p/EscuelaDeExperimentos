@@ -11,12 +11,30 @@ herramientas como Issues, colaboradores etc.
 La función de esta parte es que la comunidad general (no educada en el tema)
 se lleve una noción de lo que se trata la temática, esta sección puede
 responder  preguntas de este tipo:
-* Que es eso en lenguaje cotidiano
+
+
+Para escribir este documento seleccionaremos tres conceptos que  la siguiente
+estructura:
+
+*Título llamativo*
+
+*Primer parrafo (140 caracteres) debe contener los tres conceptos fundamentales*
+
+*Segundo bloque (tipo facebook) debe elaborar lo del primer párrafo, con datos
+simpáticos, curiosos, inspiracionales; debe dar ganas del aprender la temática
+pueden ser links, anéctodotas etc*
+
+*Tercer bloque (tipo blog) debe responder las preguntas
+* ¿Qué es eso en lenguaje cotidiano
 * ¿Para qué sirve en la vida cotidiana (o no tan cotidiana)?
 * ¿Qué problema intenta resolver?
 * ¿Porqué es importante para nuestro contexto aprender de eso?
 * ¿Quienes (de nuestro contexto) están trabajando este tema, y que los
 caracteriza.?
+Además debe contener tres mínimos ejercicios que contengan los tres conceptos,
+deben ir en orden del concepto mas simple al más complejo, y si es posible incluir
+en cada nuevo ejercicio los anteriores.*
+
 
 
 ### Prácticas
