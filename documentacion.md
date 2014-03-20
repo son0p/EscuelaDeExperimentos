@@ -9,33 +9,36 @@ herramientas como Issues, colaboradores etc.
 
 ### Divulgación
 La función de esta parte es que la comunidad general (no educada en el tema)
-se lleve una noción de lo que se trata la temática, esta sección puede
-responder  preguntas de este tipo:
+se lleve una noción de lo que se trata la temática.
 
+Para escribir este documento seleccionaremos tres conceptos fundamentales que 
+hacen de alguien un buen exponente de la temática.
 
-Para escribir este documento seleccionaremos tres conceptos que  la siguiente
-estructura:
+Teniendo esos tres conceptos usaremos la siguiente estructura:
+
+---
 
 *Título llamativo*
 
-*Primer parrafo (140 caracteres) debe contener los tres conceptos fundamentales*
+*Primer párrafo (140 caracteres) debe contener los tres conceptos fundamentales*
 
-*Segundo bloque (tipo facebook) debe elaborar lo del primer párrafo, con datos
+*Segundo bloque (tipo facebook) debe elaborar lo planteado en el primer párrafo, con datos
 simpáticos, curiosos, inspiracionales; debe dar ganas del aprender la temática
-pueden ser links, anéctodotas etc*
+pueden ser links, anécdotas etc*
 
-*Tercer bloque (tipo blog) debe responder las preguntas
-* ¿Qué es eso en lenguaje cotidiano
+*Tercer bloque (tipo blog) ya es un texto más elaborado donde se debe responder las preguntas*
+* ¿Qué es eso en lenguaje cotidiano?
 * ¿Para qué sirve en la vida cotidiana (o no tan cotidiana)?
 * ¿Qué problema intenta resolver?
 * ¿Porqué es importante para nuestro contexto aprender de eso?
 * ¿Quienes (de nuestro contexto) están trabajando este tema, y que los
 caracteriza.?
-Además debe contener tres mínimos ejercicios que contengan los tres conceptos,
+
+*Además debe contener tres mínimos ejercicios que contengan los  conceptos,
 deben ir en orden del concepto mas simple al más complejo, y si es posible incluir
 en cada nuevo ejercicio los anteriores.*
 
-
+---
 
 ### Prácticas
 La función someter a los aprendices a una serie de problemas que deben solucionar
@@ -45,6 +48,7 @@ y luego para cada aspecto diseñar un problema para ser resuelto con las
 herramientas que se han dado hasta el momento, puede ser retroactivo,
 es decir, el tercer problema puede usar herramientas del primer y segundo
 problema.
+Las prácticas deben ser en forma de retos y poner al lado una o varias posibles soluciones.
 
 ### Profundización
 Esta parte pretende tener un profundo de una o varios aspectos de la temática
@@ -53,7 +57,7 @@ Se busca también acá referenciar expertos, y recursos de profundización como
 tutoriales, sitios web, comunidades de expertos.
 
 ### Rutinas de estudio
-Una guia para el estudio diario de una disciplina, orientada a los aprendices que 
+Una guía para el estudio diario de una disciplina, orientada a los aprendices que 
 quieren avanzar desde su casa con una hora de práctica diaria.
 
 
