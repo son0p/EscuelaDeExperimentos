@@ -44,6 +44,19 @@ lo nuevo a partir de la realidad, anclado.
 - Muchas cosas no se enseñan se forman
 
 
+
+# Referentes en Video
+
+Amon Tobin
+http://youtu.be/YNlXO4G_xXM
+
+
+Aphex Twin - Vordhosbn 
+http://www.youtube.com/watch?v=j-ns5YKbes0&list=PLL2LSwl334FicVDk1jeN3GvOUT3-QunK4&feature=share
+
+
+
+
 # ChucK vs ?
 I really like chuck, but compared to csound it's sonic capabilities is less interesting. Development of chuck is also sadly slow, but the syntax is great. You can get more out of supercollider, but i never got into that because of the syntax. But i guess it's just a matter of how much time you can afford to use on learning it.
 
