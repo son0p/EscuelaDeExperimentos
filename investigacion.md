@@ -48,10 +48,12 @@ lo nuevo a partir de la realidad, anclado.
 # Referentes en Video
 
 Amon Tobin
+
 http://youtu.be/YNlXO4G_xXM
 
 
-Aphex Twin - Vordhosbn 
+Aphex Twin - Vordhosbn
+
 http://www.youtube.com/watch?v=j-ns5YKbes0&list=PLL2LSwl334FicVDk1jeN3GvOUT3-QunK4&feature=share
 
 
