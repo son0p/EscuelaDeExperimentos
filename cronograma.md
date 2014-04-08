@@ -51,17 +51,44 @@ Lugar: Planetario<br>
 
 Desde composición y programación hasta acompañante musical! ...herramienta o instrumento? Demostración del uso del secuenciador desde la composición, como acompañante para practicar su instrumento y como estudio casero para producir su demo.
 
-__Introducción a Processing__
-Por: Johnny Sepúlveda
-Charla de divulgación
-4pm a 5pm
-Lugar: Planetario
+__Introducción a Processing__<br>
+Por: Johnny Sepúlveda<br>
+Charla de divulgación<br>
+4pm a 5pm<br>
+Lugar: Planetario<br>
 
 
 Processing es un programa que permite hacer imágenes interactivas, visualización de datos y gráficos generativos en tiempo real.
 
 Muestra del uso de este software y su capacidad de sincronizarse con la música.
 
+
+__Cortocircuitaje Creativo__<br>
+Por: Daniel Luna<br>
+Charla de divulgación<br>
+5pm a 6pm<br>
+Lugar: Planetario<br>
+
+
+Es una invitación a tomar un caimán para unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético, visual, sonoro y de reflexión.
+
+Un recorrido por la historia del Circuit Bending, muestra de algunos circuitos alterados, escucha de errores y glitches.
+
+## Sábado 10 de mayo
+
+___Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.___<br>
+Por: Pedro Rincón<br>
+Charla de divulgación // Taller<br>
+2 a 4pm<br>
+Lugar: Parque de los Deseos - Mapa-<br>
+
+Aquí desarrollaremos al máximo la curiosidad por el sonido, estimularemos el ingenio para hacer con diferentes materiales de uso cotidiano instrumentos y maquinas sonoras con las que podamos llegar a hacer musica.
+Taller práctico donde haremos una clasificación de materiales asignándolos a tres principios acústicos
+básicos que corresponden a las herramientas que usaremos para producir el sonido, los aspectos son: rozamiento(rozadores,raspadores),percusión(martillos y percutores), viento (uso de sopladores).
+
+
+
+3 p.m. Ensamble vocal Medellín Vive la Música
 
 
 
