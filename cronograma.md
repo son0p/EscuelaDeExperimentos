@@ -2,6 +2,9 @@
 
 ##Jueves 8 de mayo 
 
+9 a.m. Lanzamiento Medellín Vive la Música (privado)
+
+
 __Los sonidos del Futuro__ <br>
 Por: [Felipe Carmona](https://github.com/electropipe) <br>
 Charla de divulgación // Taller <br>
@@ -48,7 +51,19 @@ Lugar: Planetario<br>
 
 Desde composición y programación hasta acompañante musical! ...herramienta o instrumento? Demostración del uso del secuenciador desde la composición, como acompañante para practicar su instrumento y como estudio casero para producir su demo.
 
+__Introducción a Processing__
+Por: Johnny Sepúlveda
+Charla de divulgación
+4pm a 5pm
+Lugar: Planetario
 
-----
+
+Processing es un programa que permite hacer imágenes interactivas, visualización de datos y gráficos generativos en tiempo real.
+
+Muestra del uso de este software y su capacidad de sincronizarse con la música.
+
+
+
+
 
 
