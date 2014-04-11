@@ -1,4 +1,4 @@
-# Currículo Electronicas extrañas
+# Currículo Casa de Musica Guayabal 
 
 ## Nuestras bases
 ### Música
@@ -23,6 +23,12 @@
 - Composición
 - Creación literaria
 - Interpolaciones
+
+### Transversales
+- Ensamble Coro
+- Instrumento melódico o rítmico
+- Instrumento armónico
+- Acompañamiento autómata
 
 ---
 
