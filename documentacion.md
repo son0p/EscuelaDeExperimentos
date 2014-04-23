@@ -20,13 +20,11 @@ Teniendo esos tres conceptos usaremos la siguiente estructura:
 
 *___Título llamativo___*
 
-*___Primer párrafo___ (140 caracteres, puede servir para twitter) debe contener  tres conceptos fundamentales*
+*___Primer párrafo___ (140 caracteres, puede servir para twitter) debe contener  tres conceptos fundamentales de manera directa y enfática*
 
-*___Segundo bloque___ (tipo facebook, medio párrafo) debe elaborar lo planteado en el primer párrafo, con datos
-simpáticos, curiosos, inspiracionales; debe dar ganas del aprender la temática
-pueden ser links, anécdotas etc*
+*___Segundo bloque___ (tipo facebook, medio párrafo) debe elaborar lo planteado en el primer párrafo, repite los tres conceptos dentro del texto para lograr recordación, elabora con datos simpáticos, curiosos, inspiracionales; debe dar ganas del aprender la temática pueden ser links, anécdotas etc*
 
-*___Tercer bloque___ (tipo blog, página y media) ya es un texto más elaborado donde se debe responder las preguntas*
+*___Tercer bloque___ (tipo blog, página y media) ya es un texto más elaborado donde se profundizan un poco los tres conceptos, se retoman y mencionan los tres conceptos pero ya de una manera más livíana y mimetizada en el texto, debe responder las preguntas*
 * ¿Qué es eso en lenguaje cotidiano?
 * ¿Para qué sirve en la vida cotidiana (o no tan cotidiana)?
 * ¿Qué problema intenta resolver?
