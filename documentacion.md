@@ -18,25 +18,23 @@ Teniendo esos tres conceptos usaremos la siguiente estructura:
 
 ---
 
-*Título llamativo*
+*___Título llamativo___*
 
-*Primer párrafo (140 caracteres) debe contener los tres conceptos fundamentales*
+*___Primer párrafo___ (140 caracteres) debe contener  tres conceptos fundamentales*
 
-*Segundo bloque (tipo facebook) debe elaborar lo planteado en el primer párrafo, con datos
+*Segundo bloque (tipo facebook, medio párrafo) debe elaborar lo planteado en el primer párrafo, con datos
 simpáticos, curiosos, inspiracionales; debe dar ganas del aprender la temática
 pueden ser links, anécdotas etc*
 
-*Tercer bloque (tipo blog) ya es un texto más elaborado donde se debe responder las preguntas*
+*___Tercer bloque___ (tipo blog, página y media) ya es un texto más elaborado donde se debe responder las preguntas*
 * ¿Qué es eso en lenguaje cotidiano?
 * ¿Para qué sirve en la vida cotidiana (o no tan cotidiana)?
 * ¿Qué problema intenta resolver?
 * ¿Porqué es importante para nuestro contexto aprender de eso?
 * ¿Quienes (de nuestro contexto) están trabajando este tema, y que los
-caracteriza.?
+caracteriza y cómo se relaciona con las ideas expuestas en el texto?
 
-*Además debe contener tres mínimos ejercicios que contengan los  conceptos,
-deben ir en orden del concepto mas simple al más complejo, y si es posible incluir
-en cada nuevo ejercicio los anteriores.*
+*Nota: para la divulgación de una temática técnica esta tercera parte puede contener tres mínimos ejercicios que contengan los  conceptos tatados en el téxto, deben ir en orden del concepto mas simple al más complejo, y si es posible incluir en cada nuevo ejercicio los anteriores.*
 
 ---
 
