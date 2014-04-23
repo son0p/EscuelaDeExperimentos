@@ -20,9 +20,9 @@ Teniendo esos tres conceptos usaremos la siguiente estructura:
 
 *___Título llamativo___*
 
-*___Primer párrafo___ (140 caracteres) debe contener  tres conceptos fundamentales*
+*___Primer párrafo___ (140 caracteres, puede servir para twitter) debe contener  tres conceptos fundamentales*
 
-*Segundo bloque (tipo facebook, medio párrafo) debe elaborar lo planteado en el primer párrafo, con datos
+*___Segundo bloque___ (tipo facebook, medio párrafo) debe elaborar lo planteado en el primer párrafo, con datos
 simpáticos, curiosos, inspiracionales; debe dar ganas del aprender la temática
 pueden ser links, anécdotas etc*
 
