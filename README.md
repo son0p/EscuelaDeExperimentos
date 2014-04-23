@@ -1,5 +1,5 @@
-# eeleX
-### Escuela de Electrónicas Extrañas
+# Casas de la Música / electrónica
+www.medellínvivelamusica.com
 
 
 ----
