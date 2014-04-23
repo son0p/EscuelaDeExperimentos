@@ -1,5 +1,21 @@
 # Currículo Casa de Musica Guayabal 
 
+## Programa Introducción a la música electrónica 
+
+### Nivel Introductorio
+* Divulgación Géneros música electrónica
+* Secuenciadores
+* Divulgación Circuit Bending
+* Divulgación Control de ruido
+ 
+
+### Nivel Medio
+
+
+### Nivel Avanzado
+
+----
+
 ## Nuestras bases
 ### Música
   - Composición
