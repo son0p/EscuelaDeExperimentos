@@ -4,16 +4,27 @@
 
 ### Nivel Introductorio
 * Divulgación Géneros música electrónica
-* Secuenciadores
+* Divulgación Secuenciadores
 * Divulgación Circuit Bending
 * Divulgación Control de ruido
- 
+* Divulgación Processing
+* Divulgación ChucK
 
 ### Nivel Medio
-
+* Prácticas Géneros Música Electrónica
+* Prácticas Secuenciadores
+* Prácticas Circuit Bending
+* Prácticas Control de ruido
+* Prácticas Processing
+* Prácticas ChucK
 
 ### Nivel Avanzado
-
+* Profundización Géneros Música Electrónica
+* Profundización Secuenciadores
+* Profundización Circuit Bending
+* Profundización Control de ruido
+* Profundización Processing
+* Profundización ChucK
 ----
 
 ## Nuestras bases
