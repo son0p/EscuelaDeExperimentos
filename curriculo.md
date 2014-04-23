@@ -19,8 +19,6 @@ Generativa análisis
 
 
 
-
-
 * Divulgación Secuenciadores
 * Divulgación Circuit Bending
 * Divulgación Control de ruido
