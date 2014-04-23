@@ -3,6 +3,7 @@
 ## Programa Introducción a la música electrónica 
 
 ### Nivel Introductorio
+*Se ejecutará en todos los nodos media hora por semana*
 * Divulgación Géneros música electrónica
 * Divulgación Secuenciadores
 * Divulgación Circuit Bending
@@ -11,6 +12,7 @@
 * Divulgación ChucK
 
 ### Nivel Medio
+*Se ejecutará en los nodos Parque Biblioteca de Guayabal y Parque Biblioteca de Belen en talleres  de 2 horas por semana*
 * Prácticas Géneros Música Electrónica
 * Prácticas Secuenciadores
 * Prácticas Circuit Bending
@@ -19,6 +21,7 @@
 * Prácticas ChucK
 
 ### Nivel Avanzado
+*Se ejecutará en los nodos Parque Biblioteca de Guayabal y Parque Biblioteca de Belen en talleres de 2 horas por semana*
 * Profundización Géneros Música Electrónica
 * Profundización Secuenciadores
 * Profundización Circuit Bending
