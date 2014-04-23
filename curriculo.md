@@ -4,7 +4,7 @@
 
 ### Nivel Introductorio
 *Se ejecutará en todos los nodos media hora por semana*
-* #####Divulgación Géneros música electrónica
+* Divulgación Géneros música electrónica
 Sensibilización musical y conceptos musicales básicos
 Características de la música electrónica (cambios de energía, caídas rápidas, subidas...)
 Diferenciación de géneros electrónicos 
