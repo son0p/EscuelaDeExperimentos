@@ -22,7 +22,7 @@
 
 ### Nivel Avanzado
 *Se ejecutará en los nodos Parque Biblioteca de Guayabal y Parque Biblioteca de Belen en talleres de 2 horas por semana*
-* Profundización Géneros Música Electrónica
+* [Profundización Géneros Música Electrónica](avanzadomusicaelec.md)
 * Profundización Secuenciadores
 * Profundización Circuit Bending
 * Profundización Control de ruido
