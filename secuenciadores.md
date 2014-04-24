@@ -1,3 +1,6 @@
+# *...Estamos en construccion! vuelve pronto!* 
+
+
 *-Introducion al secuenciador (Que es, para que, porque, con que se come)*   
 *-Partes del secuenciador*   
 *-Herramientas basicas (cortar, pegar, mover, borrar etc)*   
