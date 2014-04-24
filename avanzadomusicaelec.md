@@ -4,14 +4,14 @@
 
 
 
-####Introduccion a la sintesis
-####Drum & Bass análisis    
+####Introducción a la síntesis
+####Dram & Bass análisis    
 ####Trance analysis    
 ####Techno analysis    
-####Dubstep análisis   
+####Dubstep analysis   
 ####Dub análisis  
 ####8bit análisis   
 ####Generativa análisis   
-####Tecnicas de analisis para aplicar a cualquier otro genero electronico    
+####Técnicas de análisis para aplicar a cualquier otro género electrónico    
 ####Layering (sonidos por capas)
-####Creatividad e innovacion
+####Creatividad e innovación
