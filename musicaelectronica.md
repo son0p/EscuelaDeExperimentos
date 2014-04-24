@@ -26,14 +26,18 @@
 * Practica: Hacer un patrón y sus variaciones con una batería hecha por un circulo de todos los integrantes
 
 #### Armonía
+* Principios basicos reconocimiento de I y V grado
+* Acordes mayores
+* Acordes menores
+* Practica: Reconocer los elementos aprendidos al escuchar canciones aleatoriamente.
+* Practica: cantar acordes con todos los integrantes en circulo con variaciones mayores, menores y ritmicas
 
 #### Melodía
 
-####Diferenciación de géneros electrónicos  
-####Drum & Bass análisis    
-####Trance analysis    
-####Techno analysis    
-####Dubstep análisis   
-####Dub análisis  
-####8bit análisis   
-####Generativa análisis
+Escala mayor
+Escala menor
+Practica: improvisacion en circulo con un loop armonico y ritmico
+
+
+
+
