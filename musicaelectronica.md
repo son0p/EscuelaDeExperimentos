@@ -3,8 +3,7 @@
 
 
 
-
-## *Divulgación Géneros música electrónica*   
+  
 ####Sensibilización musical y conceptos básicos.   
 * Esencia electrónica (instrumentos y sonoridad)
 * Partes de una canción: intro, estrofa, coro, interludio, final
