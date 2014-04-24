@@ -4,29 +4,8 @@
 
 ### Nivel Introductorio
 *Se ejecutará en todos los nodos media hora por semana*
-##### *Divulgación Géneros música electrónica*   
-*-Sensibilización musical y conceptos musicales básicos*  
-*-Características de la música electrónica (cambios de energía, caídas rápidas, subidas...)*  
-*-Diferenciación de géneros electrónicos*   
-*-Drum & Bass análisis*  
-*-Trance analysis*  
-*-Techno analysis*  
-*-Dubstep analysis*  
-*-Dub análisis*  
-*-8bit análisis*    
-*-Generativa análisis*
-
-
-
-##### *Divulgación Secuenciadores*   
-*-Introducion al secuenciador (Que es, para que, porque, con que se come)*   
-*-Partes del secuenciador*   
-*-Herramientas basicas (cortar, pegar, mover, borrar etc)*   
-*-Grabar un instrumento*   
-*-Secuenciar un instrumento*   
-*-volumenes y paneo*   
-*-Efectos*   
-
+* [Divulgación Géneros música electrónica ](musicaelectronica.md)   
+* [Divulgación Secuenciadores](secuenciadores.md)   
 * Divulgación Circuit Bending
 * Divulgación Control de ruido
 * Divulgación Processing
