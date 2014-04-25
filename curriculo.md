@@ -4,7 +4,7 @@
 
 ### Nivel Introductorio
 *Se ejecutará en todos los nodos media hora por semana*
-* [Divulgación Géneros música electrónica ](musicaelectronica.md)   
+* [Divulgación Géneros música electrónica ](electro-nivel-Intro.md)   
 * [Divulgación Secuenciadores](secuenciadores.md)   
 * Divulgación Circuit Bending
 * Divulgación Control de ruido
