@@ -33,7 +33,7 @@
 * Practica: improvisacion en circulo con un loop armonico y ritmico     
 
 
-Creatividad musical  
+#### Creatividad musical  
 
 * Saliendo de los patrones rítmicos básicos   
 * Explorando nuevos timbres.  
