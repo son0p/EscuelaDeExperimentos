@@ -1,4 +1,4 @@
-# *...Estamos en construccion! vuelve pronto!* 
+# *...Estamos en construcción! vuelve pronto!*
 
 
 
