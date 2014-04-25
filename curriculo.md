@@ -13,7 +13,7 @@
 
 ### Nivel Medio
 *Se ejecutará en los nodos Parque Biblioteca de Guayabal y Parque Biblioteca de Belen en talleres  de 2 horas por semana*
-* Prácticas Géneros Música Electrónica
+* [Prácticas Géneros Música Electrónica](electro-nivel-medio.md)
 * Prácticas Secuenciadores
 * Prácticas Circuit Bending
 * Prácticas Control de ruido
