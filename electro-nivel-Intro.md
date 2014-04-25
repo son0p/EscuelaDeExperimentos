@@ -28,9 +28,18 @@
 
 #### Melodía
 
-Escala mayor  
-Escala menor  
-Practica: improvisacion en circulo con un loop armonico y ritmico  
+* Escala mayor  
+* Escala menor  
+* Practica: improvisacion en circulo con un loop armonico y ritmico     
+
+
+Creatividad musical  
+
+* Saliendo de los patrones rítmicos básicos   
+* Explorando nuevos timbres.  
+* Practica: Componer un groove hecho por un circulo de todos los integrantes, aportando desde la creatividad  
+
+
 
 
 
