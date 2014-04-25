@@ -1,17 +1,12 @@
 # *...Estamos en construccion! vuelve pronto!* 
 -----------
 
-
-
   
 ####Sensibilización musical y conceptos básicos.   
 * Esencia electrónica (instrumentos y sonoridad)
 * Partes de una canción: intro, estrofa, coro, interludio, final
 * Audición de canciones electrónicas
 * Practica: Reconocer los elementos aprendidos al escuchar canciones aleatoriamente.
-
-
-
 
 ####Características de la música electrónica 
 * Cambios de energía
@@ -33,9 +28,11 @@
 
 #### Melodía
 
-Escala mayor
-Escala menor
-Practica: improvisacion en circulo con un loop armonico y ritmico
+Escala mayor  
+Escala menor  
+Practica: improvisacion en circulo con un loop armonico y ritmico  
+
+
 
 
 
