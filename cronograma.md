@@ -1,5 +1,9 @@
 # Cronograma
 
+## Mayo 5 Posible presentación en Viva la Vida
+
+## Mayo 7 Posible presentació en Viva la Vida
+
 ##Jueves 8 de mayo 
 
 9 a.m. Lanzamiento Medellín Vive la Música (privado)
@@ -90,6 +94,11 @@ básicos que corresponden a las herramientas que usaremos para producir el sonid
 
 3 p.m. Ensamble vocal Medellín Vive la Música
 
+
+## Mayo 12 Posible presentació en Viva la Vida
+## Mayo 15 Posible presentació en Viva la Vida
+## Mayo 21 Posible presentació en Viva la Vida
+## Mayo 26  Posible presentació en Viva la Vida
 
 
 
