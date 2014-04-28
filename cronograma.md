@@ -1,8 +1,6 @@
 # Cronograma
 
-## Mayo 5 Posible presentación en Viva la Vida
 
-## Mayo 7 Posible presentació en Viva la Vida
 
 ##Jueves 8 de mayo 
 
@@ -97,9 +95,6 @@ básicos que corresponden a las herramientas que usaremos para producir el sonid
 
 ## Mayo 12 Posible presentació en Viva la Vida
 ## Mayo 15 Posible presentació en Viva la Vida
-## Mayo 21 Posible presentació en Viva la Vida
-## Mayo 26  Posible presentació en Viva la Vida
-
 
 
 
