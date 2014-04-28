@@ -1,29 +1,29 @@
 ## Tutores
-- Aplicar herramientas pedagógicasde las metodologías Walrdorf, Constructivismo y Aprendizaje basado en problemas. 
-- Guiar a los aprendices en construir sus propios curriculums.
-- Entregae informes donde evalua el progreso individual de los aprendices.
-- Selecionar los contenidos que requieran expertos y los convocarlos.
-- Coordinar con los facilitadores la participación de expertos y la documentación de esa participación.
-- Verificar y orienta a  los aprendices en la  documentación de cada proceso de manera que le sirva a otros.
+- Aplica herramientas pedagógicasde las metodologías Walrdorf, Constructivismo y Aprendizaje basado en problemas. 
+- Guia a los aprendices en construir sus propios curriculums.
+- Entrega informes donde evalua el progreso individual de los aprendices.
+- Seleciona los contenidos que requieran expertos y los convocarlos.
+- Coordina con los facilitadores la participación de expertos y la documentación de esa participación.
+- Verifica y orienta a  los aprendices en la  documentación de cada proceso de manera que le sirva a otros.
 - Usar GitHub, IRC, Google Docs para corrdinar los procesos tanto con los estudiantes como con los otros talentos, facilitadores y expertos.
-- Presentar, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
-- Asistir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
-- Asistir a las capacitaciones que planteé la dirección pedagógico.
+- Presenta, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
+- Asiste a reuniones asginadas por los facilitadores y/o dirección pedagógica.
+- Asiste a las capacitaciones que planteé la dirección pedagógico.
 
 
 ## Expertos de base:
 `Código`
-- Enseñar algoritmos para la generación de sonidos/música/imágenes.
-- Enseñar lenguajes de programación para audio/imágenes como: Processing, OF, ChucK, Python, Javascript, SuperCollider, Pure Data.
-- Explorar y entender las herramientas de producción sonora e imágenes en GNU/Linux.
-- Asesorar a los aprendices en los temas de su especialidad.
-- Generar espacios de escucha crítica para mostrar y explicar referentes de su especialidad.
-- Hacer talleres  de introducción a su especialidad.
-- Hacer conferencias de divulgación pública sobre su especialidad.
+- Enseña algoritmos para la generación de sonidos/música/imágenes.
+- Enseña lenguajes de programación para audio/imágenes como: Processing, OF, ChucK, Python, Javascript, SuperCollider, Pure Data.
+- Explora y entender las herramientas de producción sonora e imágenes en GNU/Linux.
+- Asesora a los aprendices en los temas de su especialidad.
+- Genera espacios de escucha crítica para mostrar y explicar referentes de su especialidad.
+- Hace talleres  de introducción a su especialidad.
+- Hace conferencias de divulgación pública sobre su especialidad.
 - A travez de GitHub, documentar sus procesos y coordinar la documentación de aprendices en su especialidad.
-- Presentar, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
-- Asistir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
-- Asistir a las capacitaciones que planteé la dirección pedagógico.
+- Presenta, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
+- Asiste a reuniones asginadas por los facilitadores y/o dirección pedagógica.
+- Asiste a las capacitaciones que planteé la dirección pedagógico.
 
 `Circuitos`
 - Resuelve las dudas en  bases de electrónica.
@@ -52,6 +52,20 @@
 - Presentar, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
 - Asitsir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
 - Asistir a las capacitaciones que planteé la dirección pedagógico.
+- 
+
+`Desarrollador`
+- Desarrolla aplicaciones según las necesidades de Casas de la Música.
+- Enseña algoritmos usados para esas aplicaciones
+- Explora y entiende las herramientas de desarrollo, principalmente web en GNU/Linux.
+- Asesora a los aprendices en los temas de su especialidad.
+- Genera espacios de escucha crítica para mostrar y explicar referentes de su especialidad.
+- Hace talleres  de introducción a su especialidad.
+- Hace conferencias de divulgación pública sobre su especialidad.
+- A travez de GitHub, documentar sus procesos y coordinar la documentación de aprendices en su especialidad.
+- Presenta, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
+- Asiste a reuniones asignadas por los facilitadores y/o dirección pedagógica.
+- Asiste a las capacitaciones que planteé la dirección pedagógico.
 
 `Diseño Sonoro`
 - Resuelve las dudas sobre sonido.
