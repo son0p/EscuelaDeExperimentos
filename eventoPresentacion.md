@@ -1,7 +1,7 @@
 # Evento de lanzamiento
 Duración: __4mins__
 Tonalidad: __Em (Mi menor)__
-Tempo: *130BPM*
+Tempo: __130BPM__
 
 Construir un solo de nuestro ensamble que será integrado al ensamble general de todas las casas de la música.
 
