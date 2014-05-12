@@ -12,7 +12,7 @@ __Introducción a ChucK__ <br>
 Por: Federico López <br>
 Charla de divulgación <br>
 
-El lenguaje de programación ChucK permite generar música o sonidos usando matemática, puede variar según el ambiente, y nos permite convertir en sonido una serie de datos que varían ej: el precio del dolar.
+El lenguaje de programación ChucK permite generar música o sonidos usando matemática, esos sonidos pueden variar según sensores, y nos invita a reflexionar sobre la manera en que un lenguaje de programación nos permite cambiar nuestra manera de pensar frente al sonido y la música.
 
 Muestra de este software y escucha de códigos.
 
@@ -39,7 +39,7 @@ Es una invitación a tomar un caimán para unir puntos en un circuito, inventar 
 
 Un recorrido por la historia del Circuit Bending, muestra de algunos circuitos alterados, escucha de errores y glitches.
 
-___Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.___<br>
+__Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.__<br>
 Por: Pedro Rincón<br>
 Charla de divulgación // Taller<br>
 
