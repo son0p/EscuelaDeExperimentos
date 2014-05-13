@@ -19,6 +19,7 @@ Orden Alfabético
 * Morris
 * Neuma 
 * Protov
+* Shepherd (13 años DJ pedregal) https://www.facebook.com/laura.usna?fref=ufi
 * The Forest (Experimental)
 * Velez
 * Vandelklang
