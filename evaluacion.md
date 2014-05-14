@@ -44,6 +44,8 @@ perfeccionada está la temática?*
 * Escala :*intima?privada?publica?masiva?*
 
 
+La charla presenta una linea de tiempo amplia, abarcando desde el cortocircuitaje creativo accidental, hasta en algún momento hablar sobre "tecnopatía" incluso y conceptos hipotéticos 
+
 
 
 
