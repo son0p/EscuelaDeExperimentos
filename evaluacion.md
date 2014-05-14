@@ -3,10 +3,11 @@
 
 
 
-## Evento:
+## Evento: 
+Medellín vive la música/ Charla cortocircuitaje creativo
 
 ## Locación:
-
+Planetario de Medellín 
 ## Tema
 * Conceptos/enfoques posibles:
 - Beneficio: *¿Cuál es la promesa del evento?*
@@ -14,11 +15,24 @@
 - Público: *¿Cuales tribus urbanas asisten?*
 
 
+Se busca que los asistentes a charla de cortocircuitaje creativo, se acerquen a los circuitos y al entendimiento de estos a partir de reconsiderar el error electrónico, o ruido como algo positivo y útil para fines estéticos, experimentales.....(en construcción)
+
+
+Este evento hace parte del proyecto casas de música, el cual busca generar nuevos espacios de creación y experimentación músical en la ciudad, entre estos el Cortocircuitaje Creativo....(en construcción)
+
+
+
+
+
+
+
+
+
 
 ## Título:
 
 #### Lema:
-*¿es un lema contundente?Expresa divergencia (en que se diferencia o cual es su curiosidad)y foco (expresa claramente en lo que va a emplearse la energía?)*
+Es una invitación a tomar un caimán para unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético, visual, sonoro y de reflexión.
 
 #### Caracterización de la temática
 * Tiempo: *Contemporáneo, Retro, Futurista?*
@@ -28,6 +42,12 @@
 * Sofisticación: * ¿Qué tan compleja, acabada, complicada,
 perfeccionada está la temática?*
 * Escala :*intima?privada?publica?masiva?*
+
+
+
+
+
+
 
 ## Espacio
 #### Diferenciadores
