@@ -7,6 +7,10 @@ Charla de divulgación // Taller <br>
 Que es la música electrónica? Cual es su flujo de ritmo, su ambientación y como lograr la innovación? Bienvenidos a la música futuro!
 Los asistentes podrán tener una escucha introductoria a algunos géneros de la música electrónica que habitan las discotecas de baile o están centradas en el ritmo, luego de una charla de divulgación de media hora los registrados en el taller harán una práctica de una hora y media, produciendo un boceto musical  en uno de estos géneros. 
 
+__Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
+*Cupo máximo* 10 practicantes con sus máquinas y REASON instalado, para asistir solo a ver y escuchar no hay cupo máximo.
+*Todas las edades, no requiere conocimientos previos.*
+
 
 __Introducción a ChucK__ <br>
 Por: Federico López <br>
@@ -16,11 +20,19 @@ El lenguaje de programación ChucK permite generar música o sonidos usando mate
 
 Muestra de este software y escucha de códigos.
 
+__Requerimientos__: VideoBeam (HDMI), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
+*Todas las edades, no requiere conocimientos previos.*
+
+
 __SECUENCIADORES: Acompañante Autómata__<br>
 Por: Felipe Carmona<br>
 Charla de divulgación<br>
 
 Desde composición y programación hasta acompañante musical! ...herramienta o instrumento? Demostración del uso del secuenciador desde la composición, como acompañante para practicar su instrumento y como estudio casero para producir su demo.
+
+__Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
+*Todas las edades, no requiere conocimientos previos.*
+
 
 __Introducción a Processing__<br>
 Por: Johnny Sepúlveda<br>
