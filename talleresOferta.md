@@ -1,6 +1,6 @@
 # Talleres disponibles 
 
-__Los sonidos del Futuro__ <br>
+### Los sonidos del Futuro
 Por: [Felipe Carmona](https://github.com/electropipe) <br>
 Charla de divulgación // Taller <br>
 
@@ -11,8 +11,9 @@ __Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mes
 *Cupo máximo* 10 practicantes con sus máquinas y REASON instalado, para asistir solo a ver y escuchar no hay cupo máximo.
 *Todas las edades, no requiere conocimientos previos.*
 
+---
 
-__Introducción a ChucK__ <br>
+### Introducción a ChucK 
 Por: Federico López <br>
 Charla de divulgación <br>
 
@@ -23,8 +24,9 @@ Muestra de este software y escucha de códigos.
 __Requerimientos__: VideoBeam (HDMI), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
 *Todas las edades, no requiere conocimientos previos.*
 
+---
 
-__SECUENCIADORES: Acompañante Autómata__<br>
+### SECUENCIADORES: Acompañante Autómata
 Por: Felipe Carmona<br>
 Charla de divulgación<br>
 
@@ -33,8 +35,9 @@ Desde composición y programación hasta acompañante musical! ...herramienta o 
 __Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
 *Todas las edades, no requiere conocimientos previos.*
 
+---
 
-__Introducción a Processing__<br>
+### Introducción a Processing
 Por: Johnny Sepúlveda<br>
 Charla de divulgación<br>
 
@@ -42,8 +45,9 @@ Processing es un programa que permite hacer imágenes interactivas, visualizaci�
 
 Muestra del uso de este software y su capacidad de sincronizarse con la música.
 
+---
 
-__Cortocircuitaje Creativo__<br>
+### Cortocircuitaje Creativo
 Por: Daniel Luna<br>
 Charla de divulgación<br>
 
@@ -51,7 +55,9 @@ Es una invitación a tomar un caimán para unir puntos en un circuito, inventar 
 
 Un recorrido por la historia del Circuit Bending, muestra de algunos circuitos alterados, escucha de errores y glitches.
 
-__Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.__<br>
+---
+
+### Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.
 Por: Pedro Rincón<br>
 Charla de divulgación // Taller<br>
 
