@@ -1,32 +1,18 @@
 *Esta es una plantilla para copiar y luego pegar/llenar en cada repositorio.*
 
-# INDICADORES DE CONSTRUCCIÓN/EVALUACIÓN
+### INDICADORES DE CONSTRUCCIÓN/EVALUACIÓN
 
+#### Evento:
 
+#### Locación:
 
-
-## Evento:
-
-## Locación:
-
-## Tema
+### Tema
 * Conceptos/enfoques posibles:
 - Beneficio: *¿Cuál es la promesa del evento?*
 - Ocasión: *¿Qué hace que el evento se dé?*
 - Público: *¿Cuales tribus urbanas asisten?*
 
-
-Se busca que los asistentes a charla de cortocircuitaje creativo, comiecen a acercarse al mundo de las circuitos y a un entendimiento de este, a partir de reconsiderar el error como algo positivo y útil para fines estéticos
-
-
-
-
-
-
-
-
-
-## Título:
+#### Título:
 
 #### Lema:
 *¿es un lema contundente?Expresa divergencia (en que se diferencia o cual es su curiosidad)y foco (expresa claramente en lo que va a emplearse la energía?)*
@@ -40,48 +26,56 @@ Se busca que los asistentes a charla de cortocircuitaje creativo, comiecen a ace
 perfeccionada está la temática?*
 * Escala :*intima?privada?publica?masiva?*
 
-## Espacio
-#### Diferenciadores
+### Espacio
+__Diferenciadores__
 *¿Qué elementos del lugar son exclusivos de la experiencia?*
 
-#### Señalizadores
+__Señalizadores___
 *¿Que elementos (exteriores/interiores) indican, señalan, anuncian o acentúan la experiencia?*
-#### Eliminar
 
-#### Reducir
+__Crear__
 
-#### Contradecir
+__Eliminar__
 
-#### Resignificar
+__Aumentar__
 
-#### Aumentar
+__Reducir__
 
-## Número de impresiones
+__Contradecir__
+
+__Resignificar__
+
+
+
+### Número de impresiones
 *¿qué le indica al usuario que está viviendo efectivamente la experiencia temática / taller que se le ofreció?*
 
-#### Impresiones voluntaria
+__Impresiones voluntarias__
 
-#### Impresiones involuntarias
+__Impresiones involuntarias__
 
 
-## Dominio de la experiencia *Que tanto control control se tiene sobre cada uno de los aspectos*
-#### Entretenimiento
+## Dominio de la experiencia 
+*Que tanto control control se tiene sobre cada uno de los aspectos*
+__Entretenimiento:__
 
-#### Educación:
+__Educación:__
 *¿Se van los asistentes a casa educados en el asunto de la temática?¿Que elementos ayudan a ello?*
 
-#### Estética:
+__Estética:__
 *¿Se nota control en la estética de la puesta en escena y sus alrededores?*
 
-#### Escapismo:
+__Escapismo:__
 *¿en qué momentos lograron los asistentes alterar el curso de la experiencia o el resultado final?*
 
 
-## Línea de tiempo
+### Línea de tiempo
 
 
-### Percepción sobre la duración:
+#### Percepción sobre la duración:
 
+---
+### Opiniones de otros miembros del equipo
 
 *Metodología de evaluación desarrollada por Estebangira
 
