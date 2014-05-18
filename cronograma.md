@@ -2,99 +2,54 @@
 
 
 
-##Jueves 8 de mayo 
-
-9 a.m. Lanzamiento Medellín Vive la Música (privado)
 
 
-__Los sonidos del Futuro__ <br>
+
+### Mayo 12 Posible presentació en Viva la Vida
+
+### Mayo 15 Posible presentació en Viva la Vida
+
+### Mayo 28 Miércoles
+#### Presentación de Medellín vive la música (fede) // Charla
+
+#### Cortocircuitaje Creativo
+Por: Daniel Luna<br>
+Charla de divulgación<br>
+
+Es una invitación a tomar un caimán para unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético, visual, sonoro y de reflexión.
+
+Un recorrido por la historia del Circuit Bending, muestra de algunos circuitos alterados, escucha de errores y glitches.
+
+
+#### Los sonidos del Futuro
 Por: [Felipe Carmona](https://github.com/electropipe) <br>
 Charla de divulgación // Taller <br>
-2 a 4pm <br>
-Lugar: Planetario <br>
 
 Que es la música electrónica? Cual es su flujo de ritmo, su ambientación y como lograr la innovación? Bienvenidos a la música futuro!
 Los asistentes podrán tener una escucha introductoria a algunos géneros de la música electrónica que habitan las discotecas de baile o están centradas en el ritmo, luego de una charla de divulgación de media hora los registrados en el taller harán una práctica de una hora y media, produciendo un boceto musical  en uno de estos géneros. 
 
+---
 
+### Mayo 29 Jueves
 
-__Experiencia sonora Medellín Vive la Música__ <br>
-6 p.m. a 7 p.m.<br>
-Lugar: Parque de los Deseos<br>
-
-Instalación sonora con 40 artistas en escena que incorpora elementos de géneros y formatos de las diferentes Casas de Música Popular, de tradición y contemporánea.
-
-
-## Viernes 9 de mayo
-
-__Mesa de conversación música en la formación de ciudadanos para la vida__<br>
-10 a.m. <br>
-Descripción: Encuentro con profesores y formadores en música <br>
-
-Participan: Luis Fernando Franco, César López, Tita Maya, Federico López y Daniel Crowe
-Lugar: Casa de la Música – Parque de los Deseos
-
-
-__Introducción a ChucK__ <br>
-Por: Federico López <br>
-Charla de divulgación <br>
-2 a 3pm<br>
-Lugar: Planetario<br>
-
-El lenguaje de programación ChucK permite generar música o sonidos usando matemática, puede variar según el ambiente, y nos permite convertir en sonido una serie de datos que varían ej: el precio del dolar.
-
-Muestra de este software y escucha de códigos.
-
-__SECUENCIADORES: Acompañante Autómata__<br>
-Por: Felipe Carmona<br>
-Charla de divulgación<br>
-3 a 4pm<br>
-Lugar: Planetario<br>
-
-Desde composición y programación hasta acompañante musical! ...herramienta o instrumento? Demostración del uso del secuenciador desde la composición, como acompañante para practicar su instrumento y como estudio casero para producir su demo.
-
-__Introducción a Processing__<br>
+#### Introducción a Processing
 Por: Johnny Sepúlveda<br>
 Charla de divulgación<br>
-4pm a 5pm<br>
-Lugar: Planetario<br>
-
 
 Processing es un programa que permite hacer imágenes interactivas, visualización de datos y gráficos generativos en tiempo real.
 
 Muestra del uso de este software y su capacidad de sincronizarse con la música.
 
 
-__Cortocircuitaje Creativo__<br>
-Por: Daniel Luna<br>
-Charla de divulgación<br>
-5pm a 6pm<br>
-Lugar: Planetario<br>
-
-
-Es una invitación a tomar un caimán para unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético, visual, sonoro y de reflexión.
-
-Un recorrido por la historia del Circuit Bending, muestra de algunos circuitos alterados, escucha de errores y glitches.
-
-## Sábado 10 de mayo
-
-___Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.___<br>
+#### Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.
 Por: Pedro Rincón<br>
 Charla de divulgación // Taller<br>
-2 a 4pm<br>
-Lugar: Parque de los Deseos - Mapa-<br>
 
 Aquí desarrollaremos al máximo la curiosidad por el sonido, estimularemos el ingenio para hacer con diferentes materiales de uso cotidiano instrumentos y maquinas sonoras con las que podamos llegar a hacer musica.
 Taller práctico donde haremos una clasificación de materiales asignándolos a tres principios acústicos
 básicos que corresponden a las herramientas que usaremos para producir el sonido, los aspectos son: rozamiento(rozadores,raspadores),percusión(martillos y percutores), viento (uso de sopladores).
 
 
-
-3 p.m. Ensamble vocal Medellín Vive la Música
-
-
-## Mayo 12 Posible presentació en Viva la Vida
-## Mayo 15 Posible presentació en Viva la Vida
 
 
 
