@@ -61,6 +61,7 @@ __Impresiones involuntarias__
 
 ## Dominio de la experiencia 
 *Que tanto control control se tiene sobre cada uno de los aspectos*
+
 __Entretenimiento:__
 
 __Educación:__
