@@ -9,7 +9,8 @@
 
 ### Mayo 15 Posible presentació en Viva la Vida
 
-### Mayo 28 Miércoles
+### Mayo 28 Miércoles Parque Biblioteca Tomas Carrasquilla (la quintana)
+
 #### Presentación de Medellín vive la música (fede) // Charla
 
 #### Cortocircuitaje Creativo
@@ -30,7 +31,7 @@ Los asistentes podrán tener una escucha introductoria a algunos géneros de la 
 
 ---
 
-### Mayo 29 Jueves
+### Mayo 29 Jueves Parque Biblioteca Tomas Carrasquilla (la quintana)
 
 #### Introducción a Processing
 Por: Johnny Sepúlveda<br>
