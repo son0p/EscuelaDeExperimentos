@@ -1,5 +1,7 @@
 # Casa de Experimentación
-Proyecto que hace parte de:[medellinvivelamusica.com](http://medellinvivelamusica.com)
+
+*Proyecto que hace parte de:[medellinvivelamusica.com](http://medellinvivelamusica.com)*
+
 ----
 
 ----
