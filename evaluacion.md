@@ -1,13 +1,14 @@
+*Esta es una plantilla para copiar y luego pegar/llenar en cada repositorio.*
+
 # INDICADORES DE CONSTRUCCIÓN/EVALUACIÓN
 
 
 
 
-## Evento: 
-Medellín vive la música/ Charla cortocircuitaje creativo
+## Evento:
 
 ## Locación:
-Planetario de Medellín 
+
 ## Tema
 * Conceptos/enfoques posibles:
 - Beneficio: *¿Cuál es la promesa del evento?*
@@ -15,11 +16,7 @@ Planetario de Medellín
 - Público: *¿Cuales tribus urbanas asisten?*
 
 
-Se busca que los asistentes a charla de cortocircuitaje creativo, se acerquen a los circuitos y al entendimiento de estos a partir de reconsiderar el error electrónico, o ruido como algo positivo y útil para fines estéticos, experimentales.....(en construcción)
-
-
-Este evento hace parte del proyecto casas de música, el cual busca generar nuevos espacios de creación y experimentación músical en la ciudad, entre estos el Cortocircuitaje Creativo....(en construcción)
-
+Se busca que los asistentes a charla de cortocircuitaje creativo, comiecen a acercarse al mundo de las circuitos y a un entendimiento de este, a partir de reconsiderar el error como algo positivo y útil para fines estéticos
 
 
 
@@ -32,7 +29,7 @@ Este evento hace parte del proyecto casas de música, el cual busca generar nuev
 ## Título:
 
 #### Lema:
-Es una invitación a tomar un caimán para unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético, visual, sonoro y de reflexión.
+*¿es un lema contundente?Expresa divergencia (en que se diferencia o cual es su curiosidad)y foco (expresa claramente en lo que va a emplearse la energía?)*
 
 #### Caracterización de la temática
 * Tiempo: *Contemporáneo, Retro, Futurista?*
@@ -42,14 +39,6 @@ Es una invitación a tomar un caimán para unir puntos en un circuito, inventar 
 * Sofisticación: * ¿Qué tan compleja, acabada, complicada,
 perfeccionada está la temática?*
 * Escala :*intima?privada?publica?masiva?*
-
-
-La charla presenta una linea de tiempo amplia, abarcando desde el cortocircuitaje creativo accidental, hasta en algún momento hablar sobre "tecnopatía" incluso y conceptos hipotéticos 
-
-
-
-
-
 
 ## Espacio
 #### Diferenciadores
@@ -95,3 +84,8 @@ La charla presenta una linea de tiempo amplia, abarcando desde el cortocircuitaj
 
 
 *Metodología de evaluación desarrollada por Estebangira
+
+
+
+
+
