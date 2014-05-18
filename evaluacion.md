@@ -1,6 +1,10 @@
 *Esta es una plantilla para copiar y luego pegar/llenar en cada repositorio.*
 
 ### INDICADORES DE CONSTRUCCIÓN/EVALUACIÓN
+*Metodología de evaluación desarrollada por Estebangira*
+
+
+
 
 #### Evento:
 
@@ -21,8 +25,8 @@
 * Tiempo: *Contemporáneo, Retro, Futurista?*
 * Espacio: *Cerrado?abierto?deportivo?natural?*
 * Tecnología: *Media?avanzada?*
-* Autenticidad: *Original?versión?copia local?*
-* Sofisticación: * ¿Qué tan compleja, acabada, complicada,
+* Autenticidad: *Original? versión? copia local?*
+* Sofisticación: *¿Qué tan compleja, acabada, complicada,
 perfeccionada está la temática?*
 * Escala :*intima?privada?publica?masiva?*
 
@@ -77,7 +81,7 @@ __Escapismo:__
 ---
 ### Opiniones de otros miembros del equipo
 
-*Metodología de evaluación desarrollada por Estebangira
+
 
 
 
