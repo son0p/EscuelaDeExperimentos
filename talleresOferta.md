@@ -45,7 +45,7 @@ Processing es un programa que permite hacer imágenes interactivas, visualizaci�
 
 Muestra del uso de este software y su capacidad de sincronizarse con la música.
 __Requerimientos__: Proyector(VGA), los mismos requerimientos para la charla de Secuenciadores.
-Todas las edades, no requiere conocimientos previos
+
 ---
 
 ### Cortocircuitaje Creativo
