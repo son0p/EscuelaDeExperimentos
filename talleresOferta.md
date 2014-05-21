@@ -56,7 +56,7 @@ Charla de divulgación<br>
 Es una invitación a tomar un caimán para unir puntos en un circuito, inventar con el error, convertirlo en un elemento estético, visual, sonoro y de reflexión.
 
 Un recorrido por la historia del Circuit Bending, muestra de algunos circuitos alterados, escucha de errores y glitches.
-
+nshgfhfhjdshf
 ---
 
 ### Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.
