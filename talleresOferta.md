@@ -79,5 +79,5 @@ materiales para taller de iniciacion
 kits de elctronica con: motor,piezo,cable,potenciometro 1k, adaptadores macho y hembra, conector para audio, cajita de carton, cintas aislante y adesiva, pistola de silicona, cautin, soldadura de estaño,
 
 
-para la charla: video o pantalla, sonido pequeño para el lugar .
+para la charla: VideoBeam (VGA) .
 
