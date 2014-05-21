@@ -67,3 +67,17 @@ Aquí desarrollaremos al máximo la curiosidad por el sonido, estimularemos el i
 Taller práctico donde haremos una clasificación de materiales asignándolos a tres principios acústicos
 básicos que corresponden a las herramientas que usaremos para producir el sonido, los aspectos son: rozamiento(rozadores,raspadores),percusión(martillos y percutores), viento (uso de sopladores).
 
+-- Requerimientos para los talleres de uso creativo del ruido.
+
+Mesa tipo tablon depende de los convocados, sillas 
+toma de energia 110v
+fuente de sonido con consola  8 canales en adelante
+
+
+materiales para taller de iniciacion 
+
+kits de elctronica con: motor,piezo,cable,potenciometro 1k, adaptadores macho y hembra, conector para audio, cajita de carton, cintas aislante y adesiva, pistola de silicona, cautin, soldadura de estaño,
+
+
+para la charla: video o pantalla, sonido pequeño para el lugar .
+
