@@ -44,7 +44,8 @@ Charla de divulgación<br>
 Processing es un programa que permite hacer imágenes interactivas, visualización de datos y gráficos generativos en tiempo real.
 
 Muestra del uso de este software y su capacidad de sincronizarse con la música.
-__Requerimientos__: Proyector(VGA), los mismos requerimientos para la charla de Secuenciadores.
+__Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
+*personas con curiosidad y que quieran saber como trabajan las computadoras. Todas las edades*
 
 ---
 
