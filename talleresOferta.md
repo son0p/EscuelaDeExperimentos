@@ -59,6 +59,8 @@ Un recorrido por la historia del Circuit Bending, muestra de algunos circuitos a
 
 __Requerimientos__ : VideoBeam (VGA/RCA), Consola Pequeña, Mesa, Silla, Microfono, Multitoma Eléctrico.
 
+*Todas las edades, no requiere conocimientos previos.*
+
 ---
 
 ### Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.
