@@ -76,8 +76,7 @@ fuente de sonido con consola  8 canales en adelante
 
 materiales para taller de iniciacion 
 
-kits de elctronica con: motor,piezo,cable,potenciometro 1k, adaptadores macho y hembra, conector para audio, cajita de carton, cintas aislante y adesiva, pistola de silicona, cautin, soldadura de estaño,
+kits de elctronica con: motor,piezo,cable negro y rojo ,potenciometro 1k, adaptadores macho y hembra, conector para audio, cajita de carton, cintas aislante y adesiva, pistola de silicona, cautin, soldadura de estaño,
 
 
-para la charla: VideoBeam (VGA) .
-
+para la charla: VideoBeam (VGA), audio miniplug.
