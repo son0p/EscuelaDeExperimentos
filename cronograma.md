@@ -1,19 +1,14 @@
 # Cronograma
 
-
-
-
-
-
-### Mayo 12 Posible presentació en Viva la Vida
-
-### Mayo 15 Posible presentació en Viva la Vida
+### Mayo 37 Martes
+__Demo a profesores Colegio de música__
+9am-1pm.
 
 ### Mayo 28 Miércoles Parque Biblioteca Tomas Carrasquilla (la quintana)
 
 #### Presentación de Medellín vive la música (fede) // Charla
 
-#### Cortocircuitaje Creativo
+__Cortocircuitaje Creativo__
 Por: Daniel Luna<br>
 Charla de divulgación<br>
 
@@ -22,7 +17,7 @@ Es una invitación a tomar un caimán para unir puntos en un circuito, inventar 
 Un recorrido por la historia del Circuit Bending, muestra de algunos circuitos alterados, escucha de errores y glitches.
 
 
-#### Los sonidos del Futuro
+__Los sonidos del Futuro__
 Por: [Felipe Carmona](https://github.com/electropipe) <br>
 Charla de divulgación // Taller <br>
 
@@ -33,7 +28,7 @@ Los asistentes podrán tener una escucha introductoria a algunos géneros de la 
 
 ### Mayo 29 Jueves Parque Biblioteca Tomas Carrasquilla (la quintana)
 
-#### Introducción a Processing
+__Introducción a Processing__
 Por: Johnny Sepúlveda<br>
 Charla de divulgación<br>
 
@@ -42,7 +37,7 @@ Processing es un programa que permite hacer imágenes interactivas, visualizaci�
 Muestra del uso de este software y su capacidad de sincronizarse con la música.
 
 
-#### Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.
+__Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.__
 Por: Pedro Rincón<br>
 Charla de divulgación // Taller<br>
 
@@ -50,6 +45,13 @@ Aquí desarrollaremos al máximo la curiosidad por el sonido, estimularemos el i
 Taller práctico donde haremos una clasificación de materiales asignándolos a tres principios acústicos
 básicos que corresponden a las herramientas que usaremos para producir el sonido, los aspectos son: rozamiento(rozadores,raspadores),percusión(martillos y percutores), viento (uso de sopladores).
 
+### Junio 9
+Posible participación en el Encuentro del programa Horizontes de Ruta N 40minutos del ensamble de electrónica.<br>
+*8am a 12m Orquideorama*
+
+### 21 Junio
+Posible participación en la Fiesta de la música.<br>
+*7:30pm, Parque del poblado, junto al ensamble de tambores, 30 minutos*
 
 
 
