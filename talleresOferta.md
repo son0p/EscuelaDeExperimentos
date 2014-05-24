@@ -37,7 +37,7 @@ __Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mes
 
 ---
 
-### Introducción a Processing
+### Introducción a Processing 
 Por: Johnny Sepúlveda<br>
 Charla de divulgación<br>
 
