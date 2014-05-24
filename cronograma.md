@@ -1,6 +1,6 @@
 # Cronograma
 
-### Mayo 37 Martes
+### Mayo 27 Martes
 __Demo a profesores Colegio de música__
 9am-1pm.
 
@@ -45,11 +45,15 @@ Aquí desarrollaremos al máximo la curiosidad por el sonido, estimularemos el i
 Taller práctico donde haremos una clasificación de materiales asignándolos a tres principios acústicos
 básicos que corresponden a las herramientas que usaremos para producir el sonido, los aspectos son: rozamiento(rozadores,raspadores),percusión(martillos y percutores), viento (uso de sopladores).
 
-### Junio 9
+----
+
+### Junio 9 lunes
 Posible participación en el Encuentro del programa Horizontes de Ruta N 40minutos del ensamble de electrónica.<br>
 *8am a 12m Orquideorama*
 
-### 21 Junio
+----
+
+### Junio 21 Sábado
 Posible participación en la Fiesta de la música.<br>
 *7:30pm, Parque del poblado, junto al ensamble de tambores, 30 minutos*
 
