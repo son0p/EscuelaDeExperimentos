@@ -44,7 +44,8 @@ Charla de divulgación<br>
 Processing es un programa que permite hacer imágenes interactivas, visualización de datos y gráficos generativos en tiempo real.
 
 Muestra del uso de este software y su capacidad de sincronizarse con la música.
-__Requerimientos__: Proyector(VGA), los mismos requerimientos para la charla de Secuenciadores.
+__Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
+*personas con curiosidad y que quieran saber como trabajan las computadoras. Todas las edades*
 
 ---
 
@@ -56,6 +57,10 @@ Es una invitación a tomar un caimán para unir puntos en un circuito, inventar 
 
 Un recorrido por la historia del Circuit Bending, muestra de algunos circuitos alterados, escucha de errores y glitches.
 
+__Requerimientos__ : VideoBeam (VGA/RCA), Consola Pequeña, Mesa, Silla, Microfono, Multitoma Eléctrico.
+
+*Todas las edades, no requiere conocimientos previos.*
+
 ---
 
 ### Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.
@@ -66,3 +71,16 @@ Aquí desarrollaremos al máximo la curiosidad por el sonido, estimularemos el i
 Taller práctico donde haremos una clasificación de materiales asignándolos a tres principios acústicos
 básicos que corresponden a las herramientas que usaremos para producir el sonido, los aspectos son: rozamiento(rozadores,raspadores),percusión(martillos y percutores), viento (uso de sopladores).
 
+-- Requerimientos para los talleres de uso creativo del ruido.
+
+Mesa tipo tablon depende de los convocados, sillas 
+toma de energia 110v
+fuente de sonido con consola  8 canales en adelante
+
+
+materiales para taller de iniciacion 
+
+kits de elctronica con: motor,piezo,cable negro y rojo ,potenciometro 1k, adaptadores macho y hembra, conector para audio, cajita de carton, cintas aislante y adesiva, pistola de silicona, cautin, soldadura de estaño,
+
+
+para la charla: VideoBeam (VGA), audio miniplug.
