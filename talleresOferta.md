@@ -1,4 +1,11 @@
-# Talleres disponibles 
+# Talleres disponibles
+
+### Ensamble de música electrónica
+4 personas
+Presentación
+
+Recorrido por géneros de música electrónica y ruido.
+__Requerimientos__: Pantalla de Leds (Videobeam si es de noche), Audio con subwoofers, consola de 16 canales (LS9 o similar), 8 cajas directas.
 
 ### Los sonidos del Futuro
 Por: [Felipe Carmona](https://github.com/electropipe) <br>
