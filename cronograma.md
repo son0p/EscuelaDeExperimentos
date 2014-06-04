@@ -7,7 +7,7 @@
 
 20 ||::vi::|| Participaciön Ensamble Electrónico Medellín despierta para la vida, 7pm, Parque Biblioteca Guayabal
 
-21 ||::Sá::|| Posible participación en la Fiesta de la música.
+21 ||::Sá::|| Posible participación en la Fiesta de la música. Nos recogen a las 6:30pm en el colegio de música.
 *7:30pm, Parque del poblado, junto al ensamble de tambores, 30 minutos*
 
 26 ||:: ::|| Taller Rotativa Lab en Feria de Talentos Juveniles, 2pm - 6pm Parque Biblioteca Guayabal.
