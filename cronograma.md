@@ -1,8 +1,7 @@
 # Cronograma
 
-
 ## Junio
-09 ||::lu::|| Posible participación en el Encuentro del programa Horizontes de Ruta N 40minutos del ensamble de electrónica.
+09 ||::lu::|| Participación en el Encuentro del programa Horizontes de Ruta N 40minutos del ensamble de electrónica.
 *8am a 12m Orquideorama*
 
 20 ||::vi::|| Participaciön Ensamble Electrónico Medellín despierta para la vida, 7pm, Parque Biblioteca Guayabal
@@ -11,6 +10,7 @@
 *7:30pm, Parque del poblado, junto al ensamble de tambores, 30 minutos*
 
 24 ||::ma::|| 3pm Talleres de difusión en el Parque Biblioteca Guayabal.
+
 25 ||::mi::|| 3pm Talleres de difusión en el parque Biblioteca Guayabal.
 
 26 ||:: ::|| Taller Rotativa Lab en Feria de Talentos Juveniles, 2pm - 6pm Parque Biblioteca Guayabal.
