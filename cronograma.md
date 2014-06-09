@@ -10,6 +10,9 @@
 21 ||::Sá::|| Posible participación en la Fiesta de la música. Nos recogen a las 6:30pm en el colegio de música.
 *7:30pm, Parque del poblado, junto al ensamble de tambores, 30 minutos*
 
+24 ||::ma::|| 3pm Talleres de difusión en el Parque Biblioteca Guayabal.
+25 ||::mi::|| 3pm Talleres de difusión en el parque Biblioteca Guayabal.
+
 26 ||:: ::|| Taller Rotativa Lab en Feria de Talentos Juveniles, 2pm - 6pm Parque Biblioteca Guayabal.
 
 
