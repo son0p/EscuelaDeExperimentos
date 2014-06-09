@@ -20,10 +20,15 @@
 # Historia
 28 ||::mi::|| Presentación de Medellín vive la música (fede) // Charla,__Cortocircuitaje Creativo__Por: Daniel Luna<br>__Los sonidos del Futuro__Por: [Felipe Carmona]
 
-29 ||::ju::|| __Introducción a Processing__: Johnny Sepúlveda __Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.__: Pedro Rincón<br
+29 ||::ju::|| __Introducción a Processing__: Johnny Sepúlveda __Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.__: Pedro Rincón<br>
 
 __Mayo__
 
+10 ||::sa|| __Instrumentos mecánicos y de electrónica simple para el uso creativo del ruido.__: Pedro Rincón<br>
+
+9 ||::vi::|| __Introducción a ChucK__: Federico López, __Secuenciadores__:Felipe Carmona, __Introducción a Processing__ Johnny Sepúlveda, __Cortocircuitaje Creativo__ Daniel Luna.
+
+8 ||::ju::|| Participación en el ensamble Medellín Vive La Música, __Introducción a la música electrónica__ Felipe Carmona.
 
 
 ----
