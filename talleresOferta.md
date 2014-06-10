@@ -15,7 +15,7 @@ Charla de divulgación // Taller <br>
 ¿Qué es la música electrónica? Cuáles son ritmos, su ambientación y como lograr la innovación?    
 
 
-Los asistentes podrán participar de una charla donde se escucharan y enseñaran algunos de los géneros más populares de música electrónica bailable en las últimas décadas.    
+Los asistentes podrán participar de una charla donde se escucharan y enseñaran algunos de los géneros más populares de la música electrónica bailable en las últimas décadas.    
 Contiene una sección de práctica, donde se producirá un boceto musical en uno de estos géneros. 
 
 *Bienvenidos a la música futuro!*
