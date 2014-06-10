@@ -77,13 +77,13 @@ Charla de divulgación // Taller<br>
 
 Aquí desarrollaremos al máximo la curiosidad por el sonido, estimularemos el ingenio para hacer con diferentes materiales de uso cotidiano instrumentos y maquinas sonoras con las que podamos llegar a hacer música.
 Taller práctico donde haremos una clasificación de materiales asignándolos a tres principios acústicos
-básicos que corresponden a las herramientas que usaremos para producir el sonido, los aspectos son: rozamiento(rozadores,raspadores),percusión(martillos y percutores), viento (uso de sopladores).
+básicos que corresponden a las herramientas que usaremos para producir el sonido, los aspectos son: rozamiento(rozadores,raspadores),percusión(martillos y percutores), vibracion, desbalance(motores vibradores).
 
 __Requerimientos__:  VideoBeam (VGA), audio miniplug, mesa tipo tablón depende de los convocados, sillas, toma de energía 110v, fuente de sonido con consola  8 canales en adelante.
 
 
 *materiales para taller de iniciación* kits de electrónica con: motor,piezo,cable negro y rojo ,potenciómetro 1k, adaptadores macho y hembra, conector para audio, cajita de cartón, cintas aislante y adhesiva, pistola de silicona, cautín, soldadura de estaño,
-
+aislante para las mesas de carton o papel, extencion de corriente 110v.
 
 
 
