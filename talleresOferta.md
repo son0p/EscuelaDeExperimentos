@@ -16,9 +16,9 @@ Charla de divulgación // Taller <br>
 
 
 Los asistentes podrán participar de una charla donde se escucharan y enseñaran algunos de los géneros más populares de música electrónica bailable en las últimas décadas.    
+Contiene una sección de práctica, donde se producirá un boceto musical en uno de estos géneros. 
 
-Contiene una sección de práctica, donde se producirá un boceto musical en uno de estos géneros.      
-Bienvenidos a la música futuro!
+*Bienvenidos a la música futuro!*
 
 
 __Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
