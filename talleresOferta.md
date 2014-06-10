@@ -12,8 +12,11 @@ __Requerimientos__: Pantalla de Leds (Videobeam si es de noche), Audio con subwo
 Por: [Felipe Carmona](https://github.com/electropipe) <br>
 Charla de divulgación // Taller <br>
 
-¿Qué es la música electrónica? ¿Cuál es su flujo de ritmo, su ambientación y como lograr la innovación? Bienvenidos a la música futuro!
-Los asistentes podrán tener una escucha introductoria a algunos géneros de la música electrónica que habitan las discotecas de baile o están centradas en el ritmo, luego de una charla de divulgación de media hora los registrados en el taller harán una práctica de una hora y media, produciendo un boceto musical  en uno de estos géneros. 
+¿Qué es la música electrónica? Cuáles son ritmos, su ambientación y como lograr la innovación?
+Los asistentes podrán participar de una charla donde se escucharan y enseñaran algunos de los géneros más populares de música electrónica bailable en las últimas décadas. 
+Contiene una sección de práctica, donde se producirá un boceto musical en uno de estos géneros. 
+Bienvenidos a la música futuro!
+
 
 __Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
 *Cupo máximo* 10 practicantes con sus máquinas y algún secuenciador instalado.  Para asistir solo a ver y escuchar no hay cupo máximo.
