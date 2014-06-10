@@ -11,11 +11,11 @@ __Requerimientos__: Pantalla de Leds (Videobeam si es de noche), Audio con subwo
 Por: [Felipe Carmona](https://github.com/electropipe) <br>
 Charla de divulgación // Taller <br>
 
-Que es la música electrónica? Cual es su flujo de ritmo, su ambientación y como lograr la innovación? Bienvenidos a la música futuro!
+¿Qué es la música electrónica? ¿Cuál es su flujo de ritmo, su ambientación y como lograr la innovación? Bienvenidos a la música futuro!
 Los asistentes podrán tener una escucha introductoria a algunos géneros de la música electrónica que habitan las discotecas de baile o están centradas en el ritmo, luego de una charla de divulgación de media hora los registrados en el taller harán una práctica de una hora y media, produciendo un boceto musical  en uno de estos géneros. 
 
 __Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
-*Cupo máximo* 10 practicantes con sus máquinas y REASON instalado, para asistir solo a ver y escuchar no hay cupo máximo.
+*Cupo máximo* 10 practicantes con sus máquinas y algún secuenciador instalado.  Para asistir solo a ver y escuchar no hay cupo máximo.
 *Todas las edades, no requiere conocimientos previos.*
 
 ---
@@ -74,20 +74,20 @@ __Requerimientos__ : VideoBeam (VGA/RCA), Consola Pequeña, Mesa, Silla, Microfo
 Por: Pedro Rincón<br>
 Charla de divulgación // Taller<br>
 
-Aquí desarrollaremos al máximo la curiosidad por el sonido, estimularemos el ingenio para hacer con diferentes materiales de uso cotidiano instrumentos y maquinas sonoras con las que podamos llegar a hacer musica.
+Aquí desarrollaremos al máximo la curiosidad por el sonido, estimularemos el ingenio para hacer con diferentes materiales de uso cotidiano instrumentos y maquinas sonoras con las que podamos llegar a hacer música.
 Taller práctico donde haremos una clasificación de materiales asignándolos a tres principios acústicos
 básicos que corresponden a las herramientas que usaremos para producir el sonido, los aspectos son: rozamiento(rozadores,raspadores),percusión(martillos y percutores), viento (uso de sopladores).
 
 -- Requerimientos para los talleres de uso creativo del ruido.
 
-Mesa tipo tablon depende de los convocados, sillas 
-toma de energia 110v
+Mesa tipo tablón depende de los convocados, sillas 
+toma de energía 110v
 fuente de sonido con consola  8 canales en adelante
 
 
-materiales para taller de iniciacion 
+materiales para taller de iniciación 
 
-kits de elctronica con: motor,piezo,cable negro y rojo ,potenciometro 1k, adaptadores macho y hembra, conector para audio, cajita de carton, cintas aislante y adesiva, pistola de silicona, cautin, soldadura de estaño,
+kits de electrónica con: motor,piezo,cable negro y rojo ,potenciómetro 1k, adaptadores macho y hembra, conector para audio, cajita de cartón, cintas aislante y adhesiva, pistola de silicona, cautín, soldadura de estaño,
 
 
 para la charla: VideoBeam (VGA), audio miniplug.
