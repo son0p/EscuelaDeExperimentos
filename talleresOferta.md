@@ -21,7 +21,7 @@ __Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mes
 ---
 
 ### Introducción a ChucK 
-Por: Federico López <br>
+Por: Esteban Betancur, Federico López <br>
 Charla de divulgación <br>
 
 El lenguaje de programación ChucK permite generar música o sonidos usando matemática, esos sonidos pueden variar según sensores, y nos invita a reflexionar sobre la manera en que un lenguaje de programación nos permite cambiar nuestra manera de pensar frente al sonido y la música.
@@ -78,16 +78,12 @@ Aquí desarrollaremos al máximo la curiosidad por el sonido, estimularemos el i
 Taller práctico donde haremos una clasificación de materiales asignándolos a tres principios acústicos
 básicos que corresponden a las herramientas que usaremos para producir el sonido, los aspectos son: rozamiento(rozadores,raspadores),percusión(martillos y percutores), viento (uso de sopladores).
 
--- Requerimientos para los talleres de uso creativo del ruido.
-
-Mesa tipo tablón depende de los convocados, sillas 
-toma de energía 110v
-fuente de sonido con consola  8 canales en adelante
+__Requerimientos__:  VideoBeam (VGA), audio miniplug, mesa tipo tablón depende de los convocados, sillas, toma de energía 110v, fuente de sonido con consola  8 canales en adelante.
 
 
-materiales para taller de iniciación 
-
-kits de electrónica con: motor,piezo,cable negro y rojo ,potenciómetro 1k, adaptadores macho y hembra, conector para audio, cajita de cartón, cintas aislante y adhesiva, pistola de silicona, cautín, soldadura de estaño,
+*materiales para taller de iniciación* kits de electrónica con: motor,piezo,cable negro y rojo ,potenciómetro 1k, adaptadores macho y hembra, conector para audio, cajita de cartón, cintas aislante y adhesiva, pistola de silicona, cautín, soldadura de estaño,
 
 
-para la charla: VideoBeam (VGA), audio miniplug.
+
+
+
