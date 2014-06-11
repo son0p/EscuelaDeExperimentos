@@ -93,4 +93,19 @@ aislante para las mesas de carton o papel, extencion de corriente 110v.
 
 
 
+### Gestión de festivales (tomas de barrio)
+
+Por: Edward valencia
+ Charla de divulgación //   Taller
+
+Metodologías para la realización de festivales o tomas de barrio.
+Tips básicos para la organización de festivales artísticos en donde los participantes se instruiran en un lenguaje simple para la auto gestion. 
+Aprenderemos a identificar la nesecidad o problema, concebir una gran idea y habilidad para buena Una negociacion
+
+_Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
+*Todas las edades, no requiere conocimientos previos.*
+
+---
+ 
+
 
