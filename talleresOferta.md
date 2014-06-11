@@ -100,7 +100,7 @@ Por: Edward valencia
 
 Metodologías para la realización de festivales o tomas de barrio.<br>
 Tips básicos para la organización de festivales artísticos en donde los participantes se instruirán en un lenguaje simple para la auto gestion.<br> 
-Aprenderemos a identificar la necesidad o problema, concebir una gran idea y habilidad para buena Una negociación
+Aprenderemos a identificar la necesidad o problema, concebir una gran idea y habilidad para una buena negociación
 
 _Requerimientos__: VideoBeam (VGA), Audio Micrófono y entrada de MiniPlug, Mesa, Silla, Base de micrófono.
 *Todas las edades, no requiere conocimientos previos.*
