@@ -4,7 +4,9 @@
 09 ||::lu::|| Participación en el Encuentro del programa Horizontes de Ruta N 40minutos del ensamble de electrónica.
 *8am a 12m Orquideorama*
 
-20 ||::vi::|| Participaciön Ensamble Electrónico Medellín despierta para la vida, 7pm, Parque Biblioteca Guayabal
+17 ||::ma::|| __Entrega:__ Finaliza la tormenta de ideas del #proyectoTiburón, se saca la idea seleccionada.
+
+20 ||::vi::|| Participación Ensamble Electrónico Medellín despierta para la vida, 7pm, Parque Biblioteca Guayabal __Entrega:__ Los 12 juegos de nuestra escuela para repertorio/ensamble.
 
 21 ||::Sá::|| Posible participación en la Fiesta de la música. Nos recogen a las 6:30pm en el colegio de música.
 *7:30pm, Parque del poblado, junto al ensamble de tambores, 30 minutos*
@@ -14,6 +16,10 @@
 25 ||::mi::|| 3pm Talleres de difusión en el parque Biblioteca Guayabal.
 
 26 ||:: ::|| Taller Rotativa Lab en Feria de Talentos Juveniles, 2pm - 6pm Parque Biblioteca Guayabal.
+
+# Julio
+
+17 || || __Entrega:__ Finaliza la etapa de producción del #proyectoTiburón.
 
 
 
