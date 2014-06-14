@@ -1,0 +1,8 @@
+Mañanas 8 a 12  tardes 2 a 6
+
+Lunes : Mañanas Biblioteca Guayabal
+Martes: Mañanas Colegio de Música (pedagogía) 9 a 1pm
+Miercoles: Mañanas Colegio de música  // Esteban no puede
+Jueves: Mañanas Colegio de música (curriculo)
+Viernes: Mañanas Biblio Guayabal
+
