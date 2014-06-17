@@ -11,7 +11,7 @@
 21 ||::Sá::|| Posible participación en la Fiesta de la música. Nos recogen a las 6:30pm en el colegio de música.
 *7:30pm, Parque del poblado, junto al ensamble de tambores, 30 minutos*
 
-24 ||::ma::|| 3pm Talleres de difusión en el Parque Biblioteca Guayabal.
+24 ||::ma::|| 3pm Talleres de difusión en el Parque Biblioteca Guayabal. Pipe Carmona
 
 25 ||::mi::|| 3pm Talleres de difusión en el parque Biblioteca Guayabal.
 
