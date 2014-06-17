@@ -5,7 +5,19 @@
 
 17 ||::ma:: 
 
-16 ||::lu:: 
+*Anterior:* __pedro:__ Debatió ideas, logró la pregunta, participó en el ensayo del ensamble de Fer. __dani:__ Participó en el ensayo del ensamble de Fer, documentó. __esteban:__ Sacó la pregunta y la respuesta, leyó acerca de juegos lógicos y matemáticos e hizo un repo de pendientes. __pipe:__ Calificó sus cosas, probó Chuck y sus posibilidades. __johnny:__ Investigó como mejorar el atari punk, miró el código y la sintaxis de D3. __gnomo:__ Depuró ideas, proyecto tiburón y trabajó en el documento gestión de festivales.
+
+*Hoy:* __pedro:__ Definir una de sus ideas.  __dani:__ Definir la pregunta y organizar sus ideas. __esteban:__ buscar y definir recursos para tirar beats tipo banco y secuenciadores. __pipe:__ Trabajará en la idea y proyecto tiburón para realizar la entrega. __johnny:__ Adelantar juegos, proyecto tiburón, atari punk. __gnomo:__ Prepará charla para el 25 de junio en la biblioteca de guayabal.
+
+*Restricciones:* __pedro:__ ninguna __dani:__ ninguna __esteban:__ ninguna
+__pipe:__ ninguna __johnny:__ ninguna __gnomo:__ ninguna  __fede:__ los preparativos para su viaje.
+
+
+
+
+16 ||::lu::   
+
+
 
 *Anterior:*  __gnomo:__ hice las 10, 4 herramienta negociacio __johnny__ idas instrumetos  __esteban__  pregunta proyecto __pipe__ __fede__ laso, D3, Selec proy tib __dani__ Participación ensayo ensamble Fer  __pedro__ montaje ensambl, ideas proy tbron
 
