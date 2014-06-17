@@ -1,5 +1,5 @@
 
- *Antes*:__gn__hice las 10, 4 herramienta negociacio __jo__idas instrumetos  __es__ok pregunta proyecto __pi__ __fe__laso, D3, Selec proy tib __da__ __pe__ montaje ensambl, ideas proy tbron  *Hoy*:__gn__ortogrfia  __jo__evaluar ideas, codigo d3  __es__revisar preguntas, dlloweb, 10 ideas, intro cuchk  __pi__elegir la idea  __fe__ __da__ __pr__ hoy ensamble fer , ideas,   *Restricciones*: __gn__ __jo__ __es__se puede optimizar el trabajo __pi__ __fe__ __da__ __ped__ dany en el ensam,ble, dany se asara cuando lo corrigen mucho aporte m[as atmosferico no con un beat.
+ *Antes*: __gn__ hice las 10, 4 herramienta negociacio __jo__ idas instrumetos  __es__ ok pregunta proyecto __pi__ __fe__ laso, D3, Selec proy tib __da__ __pe__ montaje ensambl, ideas proy tbron  *Hoy*:__gn__ortogrfia  __jo__evaluar ideas, codigo d3  __es__revisar preguntas, dlloweb, 10 ideas, intro cuchk  __pi__elegir la idea  __fe__ __da__ __pr__ hoy ensamble fer , ideas,   *Restricciones*: __gn__ __jo__ __es__se puede optimizar el trabajo __pi__ __fe__ __da__ __ped__ dany en el ensam,ble, dany se asara cuando lo corrigen mucho aporte m[as atmosferico no con un beat.
 
 # Junio
 
