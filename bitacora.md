@@ -3,8 +3,15 @@
 
 # Junio
 
+17 ||::ma:: 
 
-16 ||::lu:: *Anterior:*  __gnomo:__ hice las 10, 4 herramienta negociacio __johnny__ idas instrumetos  __esteban__  pregunta proyecto __pipe__ __fede__ laso, D3, Selec proy tib __dani__ __pedro__ montaje ensambl, ideas proy tbron  *Hoy*:__gn__ ortogrfia  __jo__ evaluar ideas, codigo d3  __es__ revisar preguntas, dlloweb, 10 ideas, intro cuchk  __pi__ elegir la idea  __fe__ __da__ __pr__ hoy ensamble fer , ideas,   *Restricciones*: __gn__ __jo__ __es__se puede optimizar el trabajo __pi__ __fe__ __da__ __ped__ dany en el ensam,ble, dany se asara cuando lo corrigen mucho aporte m[as atmosferico no con un beat. __fe__ __da_
+16 ||::lu:: 
+
+*Anterior:*  __gnomo:__ hice las 10, 4 herramienta negociacio __johnny__ idas instrumetos  __esteban__  pregunta proyecto __pipe__ __fede__ laso, D3, Selec proy tib __dani__ Participación ensayo ensamble Fer  __pedro__ montaje ensambl, ideas proy tbron
+
+*Hoy*:__gn__ ortogrfia  __jo__ evaluar ideas, codigo d3  __es__ revisar preguntas, dlloweb, 10 ideas, intro cuchk  __pi__ elegir la idea  __fe__ __da__ __pr__ hoy ensamble fer , ideas,   
+
+*Restricciones*: __gn__ __jo__ __es__se puede optimizar el trabajo __pi__ __fe__ __da__ __ped__ dany en el ensam,ble, dany se asara cuando lo corrigen mucho aporte m[as atmosferico no con un beat. __fe__ __da_
 13 ||::vi::__Gnomo__ Ayer> preguntas del doc, 4 herramientas para mejor negociador, 10 ideas __esteban__ayer leimos el codigo hoy> sacar pregunta
 
 11 ||:: :: __Dani__documentar me genera estres no soy capaz de organizar mis ideas en el papel prefiero estar conectando cables.__gnomo__
