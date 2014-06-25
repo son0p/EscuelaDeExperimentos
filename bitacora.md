@@ -2,12 +2,25 @@
  *Antes*: 
 
 # Junio
-25 ||::Mie:: __pedro:__ ----- __dani:__ actualizó bitácora __esteban:__-----
-__pipe:__ ----- __johnny:__ ----- __gnomo:__ Nos compartió su charla
+25 ||::Mie::
+__pedro:__ ----- 
+
+__dani:__ actualizó bitácora 
+
+__esteban:__-----
+
+__pipe:__ ----- 
+
+__johnny:__ 
+
+----- __gnomo:__ Nos compartió su charla  
+
+__fede__  *hoy:* prepararé inicio de entorno conceptual para código en vivo,  hice boceto de flyer para algo-ritmo bailable, adelanté el repo algo-ritmo bailable, mail a unloquer donde invité a participar. #proyectoTiburon // *antes:* hice reunión virtual con elizabeth #comiteDeComunicaciones.
 
 
 24 ||::Mar::__pedro:__Participó en reunión de equipo __dani:__Preparó charla en el P.B Manuel Mejía Vallejo, realizó diligencias personales y ayudó a Johnny con atari punk y electrónica  __esteban:__ Preparó, impartió charla en el P.B Manuel Mejía Vallejo
 __pipe:__Preparó, impartió charla en el P.B Manuel Mejía Vallejo y envió reporte __johnny:__Investigó y armó un atari punk  __gnomo:__ Planeó charla en el P.B Manuel Mejía Vallejo.
+
 
 21 ||::Sa::__pedro:__ Participación en la fiesta de la música en el parque del Poblado __dani:__ Participación en la fiesta de la música en el parque del Poblado __esteban:__ Participación en la fiesta de la música en el parque del Poblado
 __pipe:__Participación en la fiesta de la música en el parque del Poblado __johnny:__ Participación en la fiesta de la música en el parque del Poblado __gnomo:__ no asistió 
