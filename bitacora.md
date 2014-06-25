@@ -2,8 +2,8 @@
  *Antes*: 
 
 # Junio
-25 ||::Mie:: __pedro:__  __dani:__ actualizó bitácora __esteban:__ 
-__pipe:__  __johnny:__  __gnomo:__ Nos compartió su charla
+25 ||::Mie:: __pedro:__ ----- __dani:__ actualizó bitácora __esteban:__-----
+__pipe:__ ----- __johnny:__ ----- __gnomo:__ Nos compartió su charla
 
 
 24 ||::Mar::__pedro:__Participó en reunión de equipo __dani:__Preparó charla en el P.B Manuel Mejía Vallejo, realizó diligencias personales y ayudó a Johnny con atari punk y electrónica  __esteban:__ Preparó, impartió charla en el P.B Manuel Mejía Vallejo
