@@ -2,7 +2,34 @@
  *Antes*: 
 
 # Junio
+25 ||::Mie:: __pedro:__  __dani:__ actualizó bitácora __esteban:__ 
+__pipe:__  __johnny:__  __gnomo:__ Nos compartió su charla
 
+
+24 ||::Mar::__pedro:__Participó en reunión de equipo __dani:__Preparó charla en el P.B Manuel Mejía Vallejo, realizó diligencias personales y ayudó a Johnny con atari punk y electrónica  __esteban:__ Preparó, impartió charla en el P.B Manuel Mejía Vallejo
+__pipe:__Preparó, impartió charla en el P.B Manuel Mejía Vallejo y envió reporte __johnny:__Investigó y armó un atari punk  __gnomo:__ Planeó charla en el P.B Manuel Mejía Vallejo.
+
+21 ||::Sa::__pedro:__ Participación en la fiesta de la música en el parque del Poblado __dani:__ Participación en la fiesta de la música en el parque del Poblado __esteban:__ Participación en la fiesta de la música en el parque del Poblado
+__pipe:__Participación en la fiesta de la música en el parque del Poblado __johnny:__ Participación en la fiesta de la música en el parque del Poblado __gnomo:__ no asistió 
+
+20 ||::vie::__pedro:__ asistió a  la muestra de repertorio de coros y tradicionales con Fer franco y Tita, en la tarde activación en 2 UVAS, en la noche participación en Medellín despierta en P.B de Guayabal __dani:__en la noche participación en Medellín despierta en P.B de Guayabal  __esteban:__asistió a  la muestra de repertorio de coros y tradicionales con Fer franco y Tita, en la tarde activación en 2 UVAS, en la noche participación en Medellín despierta en P.B de Guayabal  __pipe:__ Envió las pistas  __johnny:__ asistió a  la muestra de repertorio de coros y tradicionales con Fer franco y Tita, en la tarde activación en 2 UVAS, en la noche participación en Medellín despierta en P.B de Guayabal __gnomo:__ Asistió al ensamble de Medellín despierta en P.B de Guayabal.
+
+Restricciones:* __pedro:__ ninguna __dani:__ salud __esteban:__ ninguna
+__pipe:__ ninguna __johnny:__ ninguna __gnomo:__ ninguna
+
+
+19 ||::jue::__pedro:__ Ensayo para Medellín despierta y fiesta de la música __dani:__ asistió pero no participó del ensayo __esteban:__ Ensayo para Medellín despierta y fiesta de la música __pipe:__ ------- __johnny:__ Ensayo para Medellín despierta y fiesta de la música __gnomo:__ Ensayo para Medellín despierta y fiesta de la música.
+
+Restricciones:* __pedro:__ ninguna __dani:__ salud __esteban:__ ninguna
+__pipe:__ ninguna __johnny:__ ninguna __gnomo:__ ninguna 
+
+
+
+
+18 ||::mie::__pedro:__ Ensayo para Medellín despierta y fiesta de la música __dani:__ No asistió __esteban:__ Ensayo para Medellín despierta y fiesta de la música __pipe:__ Reunión comité __johnny:__ Ensayo para Medellín despierta y fiesta de la música __gnomo:__ Ensayo para Medellín despierta y fiesta de la música.
+
+Restricciones:* __pedro:__ ninguna __dani:__ Salud __esteban:__ ninguna
+__pipe:__ ninguna __johnny:__ ninguna __gnomo:__ ninguna 
 17 ||::ma:: 
 
 *Anterior:* __pedro:__ Debatió ideas, logró la pregunta, participó en el ensayo del ensamble de Fer. __dani:__ Participó en el ensayo del ensamble de Fer, documentó. __esteban:__ Sacó la pregunta y la respuesta, leyó acerca de juegos lógicos y matemáticos e hizo un repo de pendientes. __pipe:__ Calificó sus cosas, probó Chuck y sus posibilidades. __johnny:__ Investigó como mejorar el atari punk, miró el código y la sintaxis de D3. __gnomo:__ Depuró ideas, proyecto tiburón y trabajó en el documento gestión de festivales.
