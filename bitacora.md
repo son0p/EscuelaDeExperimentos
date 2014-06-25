@@ -1,4 +1,4 @@
-
+estoy pasando la bitacroa a https://trello.com/b/2EWh2uD0/bitacora-casa-de-experimentos
  *Antes*: 
 
 # Junio
