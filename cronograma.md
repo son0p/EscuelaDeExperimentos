@@ -1,13 +1,17 @@
 # Cronograma
 
 ## Horario semanal
-Mañanas 9 a 1  tardes 2 a 6
+Tardes 2 a 6
 
-Lunes : 4-6 Grupo 1  // 6-8 Grupo 2 Aula Múltiple Parque Biblioteca Belen 
-Martes: Mañanas Colegio de Música (pedagogía) 9 a 1pm
-Miercoles: Mañanas Colegio de música  // Esteban no puede
-Jueves: Mañanas Colegio de música (curriculo)
-Viernes: Mañanas Biblio Guayabal
+Lunes : 4-6 Grupo 1  // 6-8 Grupo 2 Aula Múltiple Parque Biblioteca Belen
+
+Martes: Colegio de música
+
+Miercoles: Colegio de música
+
+Jueves: Colegio de música
+
+Viernes: Colegio de música
 
 ## Distribución de horas/semana por talento
 
