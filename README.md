@@ -1,7 +1,7 @@
 
 # Casa de Experimentos
 
-![Sequenciador Humano](raw/master/imagenes/mediaSeqHumano.png)
+![Sequenciador Humano](https://github.com/son0p/casaDeExperimentos/raw/master/imagenes/mediaSeqHumano.png)
 
 *Proyecto que hace parte de [medellinvivelamusica.com](http://medellinvivelamusica.com)*
 
