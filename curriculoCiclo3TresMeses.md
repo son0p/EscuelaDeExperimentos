@@ -1,4 +1,4 @@
-__Semana 1__ [Groove (Ritmo/Agitación)](cilco3m/semana1Agitacion.md)   
+__Semana 1__ [Groove (Ritmo/Agitación)](ciclo3m/semana1Agitacion.md)   
        
 
 __Semana 2__ [Alturas (Melodía)](ciclo3m/semana2Relieve.md)
