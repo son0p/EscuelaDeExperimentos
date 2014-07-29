@@ -3,7 +3,10 @@
 ## Horario semanal
 Tardes 2 a 6
 
-Lunes : 4-6 Grupo 1  // 6-8 Grupo 2 Aula Múltiple Parque Biblioteca Belen
+**Lunes**
+- 4-6 Pedro Rincón, Gnomo [Introducción a la música electrónica bailable -Niños-](https://github.com/electropipe/musicaElectronica) Aula Múltiple Parque Biblioteca Belen
+- 6-8 Felipe Carmona, Gnomo [Introducción a la música electrónica bailable -Jóvenes-](https://github.com/electropipe/musicaElectronica) Aula Múltiple Parque Biblioteca Belen
+- 5-6 Daniel Luna [Cortocircuitaje Creativo](https://github.com/DanielLuna/circuitBending) Centro cultural Los Colores
 
 Martes: Colegio de música
 
