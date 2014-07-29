@@ -2,7 +2,7 @@
 
 
 
-### Lunes
+### -------------- Lunes ------------------
 ### Colegio de Música de medellin
 - 9AM Todos : Reunión general
 
