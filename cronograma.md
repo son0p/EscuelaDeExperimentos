@@ -4,14 +4,14 @@
 
 ### Lunes
 ### Colegio de Música de medellin
-- Todos : Reunión general
+- 9AM Todos : Reunión general
 
 #### Aula Múltiple Parque Biblioteca Belen 
-- 4-6 Pedro Rincón, Gnomo [Introducción a la música electrónica bailable -Niños-](https://github.com/electropipe/musicaElectronica) 
-- 6-8 Felipe Carmona, Gnomo [Introducción a la música electrónica bailable -Jóvenes-](https://github.com/electropipe/musicaElectronica)
+- 4-6PM Pedro Rincón, Gnomo [Introducción a la música electrónica bailable -Niños-](https://github.com/electropipe/musicaElectronica) 
+- 6-8PM Felipe Carmona, Gnomo [Introducción a la música electrónica bailable -Jóvenes-](https://github.com/electropipe/musicaElectronica)
 
 ###  Centro cultural Los Colores
-- 5-6 Daniel Luna [Cortocircuitaje Creativo](https://github.com/DanielLuna/circuitBending)
+- 5-6PM Daniel Luna [Cortocircuitaje Creativo](https://github.com/DanielLuna/circuitBending)
 
 Martes: Colegio de música
 
