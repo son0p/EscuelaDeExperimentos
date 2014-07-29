@@ -13,40 +13,22 @@
 ###  Centro cultural Los Colores
 - 5-6PM Daniel Luna [Cortocircuitaje Creativo](https://github.com/DanielLuna/circuitBending)
 
-Martes: Colegio de música
+### ----------------Martes -----------------
 
-Miercoles: Colegio de música
 
-Jueves: Colegio de música
+### -------------- Miércoles ---------------------
 
-Viernes: Colegio de música
+Johnny Sepulveda: Interfaces musicales
 
-## Distribución de horas/semana por talento
+### ---------------- Jueves ----------
+9 - 1PM Johnny, Esteban, Brolin, Federico :: DataPotata + Algo-Ritmos + Sails
 
-*Esta asignación es orgánica y varia según prioridades*
+### -------------- Viernes ----------
+9 - 1PM  Johnny, Esteban, Federico, Daniel, Pedro :: Ensamble
 
-__Felipe Carmona__ 8h preparar clases, 4h horas dictar clases, 8h Proyecto [Poliritmos colombianos en la pista de baile de Techno], 4h Participa en el diseño eléctrico del proyecto [Instrumento mínimo pedagógico electrónico]
-
-__Johnny Sepulveda__ 12h Proyecto [[Instrumento mínimo pedagógico electrónico], 8h proyecto [Visualización de datos], 4h prepara Taller de sus temas, 4h participa en proyecto [Enseñar hip hop con artefatos y procesing]
-
-__Pedro Rincón__ 8h Prepara clases, 4h dicta clases, 8h participa en proyecto [Instrumento mínimo], 4h proyecto [portabilidad de artefactos para el control musical del ruido]
-
-__Esteban Betancur__ 8h proyecto [Captura de datos sector música medellin], 8h proyecto [organismos musicales], 4h participa en luthier para el proyecto [intrumento mínimo], 4h participa el proyecto [portabilidad de artefactos...]
-
-__Daniel Luna__ 12h proyecto [secuenciador análogo con elementos reciclados], 8h soporte electrónico a todos los proyectos, 4h prepara talleres en su destreza de ruido aleatorio y cortocircuitaje creativo.
-
-__Gnomo__ 8h asistencia a las clases de Pedro y Felipe, 4h proyecto [gestión de festivales], 8 proyecto [Enseñar Hip Hop con artefactos y processing], 4h participa en Nuevas poëticas con Camilo Suarez
-
-__Brolin__
-
-__Federico Lopez__ 4h proyecto [Escena de código en vivo en medellín], 2h comitë de comunicaciones, 8h acompañamiento y evaluación de clases, 4h informes, 4h participa el proyectos de [captura y visualizacion de datos], 2h acopmaña proyecto plataforma Web.
 
 ---
 # Agenda 
-## Julio
-7 ||::lu:: || Inician las clases
-
-17 || || __Entrega:__ Finaliza la etapa de producción del #proyectoTiburón.
 
 ## Agosto
 Semana del 17 Socialización de Proyecto Tiburón
@@ -54,6 +36,11 @@ Semana del 17 Socialización de Proyecto Tiburón
 ---
 
 ## Historia
+
+## Julio
+17 || || __Entrega:__ Finaliza la etapa de producción del #proyectoTiburón.
+
+7 ||::lu:: || Inician las clases
 
 
 
