@@ -6,6 +6,9 @@
 *Proyecto que hace parte de [medellinvivelamusica.com](http://medellinvivelamusica.com)*
 
 ----
+
+[Calendario](https://www.google.com/calendar/embed?src=fmm3p4dichknj7mkj5hh8tommc%40group.calendar.google.com&ctz=America/Bogota)
+
 Abierto al público, éste espacio identificará temáticas en la música, el sonido y la industria cultural, para experimentar y profundizar en ellas.  Conectará desarrollos propios con procesos existentes locales y  expertos globales.
 
 La __Casa de Experimentos__ proveerá infraestructura, estímulo  y orientación en experimentación creativa,  También suministrará visualizaciones de datos e indicadores de la industria cultural.
