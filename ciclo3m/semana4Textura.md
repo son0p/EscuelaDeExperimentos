@@ -20,7 +20,10 @@ En general es una etapa o artefacto que modifica el sonido de alguna manera.
 
 ### Extremos del espectro
 
-
+## Herramientas
+* Generación de audios que ejemplifican armónicos, formas de onda, envolvente, jfxr.frozenfractal.com/
+* Patch de PD
+* [Patch de ChucK](https://github.com/essteban/chucK/blob/master/aPaletteOfColors.ck)
 
 
 ---
