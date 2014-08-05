@@ -25,6 +25,9 @@ En general es una etapa o artefacto que modifica el sonido de alguna manera.
 * Patch de PD
 * [Patch de ChucK](https://github.com/essteban/chucK/blob/master/aPaletteOfColors.ck)
 
+## Referentes que hacen uso de la textura como elemento compositivo
+[Open Up - Planetary Assault Systems](http://grooveshark.com/s/Open+Up/3ZLhwe?src=5) Track donde se pueden apreciar diferentes texturas.
+
 
 ---
 ### Bibliografía
