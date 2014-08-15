@@ -3,7 +3,7 @@
 Los cambios en presión sonora afectan la manera en que se comporta nuestra atención.
 *intensidad pico y promedio*, *dinámica*, *mezcla de niveles*
 
-Existe en Japón una caomunidad interesada en producir música que suena lo mas leve posible, su obra se desarrolla en el límite de lo inaudible, en contraste occidente se encuentra en medio de la guerra del volumen, donde la búsqueda se centra en sonar lo más fuerte posible.
+Existe en Japón una comunidad interesada en producir música que suena lo mas leve posible, su obra se desarrolla en el límite de lo inaudible, en contraste occidente se encuentra en medio de la guerra del volumen, donde la búsqueda se centra en sonar lo más fuerte posible.
 
 
 Algunas herramientas para controlar la *dinámica* son los compresores, expansores.
