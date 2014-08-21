@@ -1,10 +1,10 @@
 # Groove/Rítmo/Agitación
 
-Iniciar con el misterio de la composición es una tarea que aceptamos, el ritmo podría ser el esqueleto que le da estructura a muchas piezas musicales, y lo que llamaremos "groove" cumple.
+Iniciar con el misterio de la composición es una tarea que aceptamos, el ritmo podría ser el esqueleto que le da estructura a muchas piezas musicales, y lo que llamaremos *groove* será el detonante que hace poner de pie al dispuesto cuerpo.
 
 Entraremos pues a entender el **Motor Rítmico**, exploraremos la responsabilidad bailable de los **poliritmos**, y extenderemos nuestra búsqueda con las  **transiciones rítmicas** en función de lo que quiere expresar el creador de música.
 
-Mantener encendida la maquinaria del bailarín es un reto importante en la música electrónica bailable, empezemos entonces por una ayuda importante: "Four on the Floor"[1]
+Mantener encendida la maquinaria del bailarín es un reto importante en la música electrónica bailable, empezemos entonces por una ayuda importante: *Four on the Floor*[1]
 Estos cuatro golpes que acentuan el beat facilitan mantenerse en la pista de baile hasta para el más temeroso.
 
 Golpeemos pues el piso con nuestros pies al ritmo del beat. [ensamble]
@@ -33,4 +33,5 @@ Las **transiciones rítmicas** tienen que ver con la manera de detener y reanuda
 ### Referencias:
 
 [1] http://en.wikipedia.org/wiki/Four_on_the_floor_%28music%29
+
 [2] Ejemplos audibles http://youtu.be/UcEmu6rKZqI
