@@ -1,6 +1,6 @@
 # Groove/Rítmo/Agitación
 
-Iniciar con el misterio de la crear música es una tarea que aceptamos, el ritmo podría ser el esqueleto que le da estructura a muchas piezas musicales, y lo que llamaremos *groove* será el detonante que hace poner de pie al dispuesto cuerpo.
+Iniciar con el misterio de la creación músical es una tarea que aceptamos, el ritmo podría ser el esqueleto que le da estructura a muchas piezas musicales, y lo que llamaremos *groove* será el detonante que hace poner de pie al dispuesto cuerpo.
 
 Entraremos pues a entender el **Motor Rítmico**, exploraremos la responsabilidad bailable de los **Poliritmos**, y extenderemos nuestra búsqueda con las  **Transiciones Rítmicas** en función de lo que quiere expresar el creador de música.
 
