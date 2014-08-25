@@ -8,8 +8,11 @@ versiones y sugerimos GitHub por la posibilidad de colaboración y las
 herramientas como Issues, colaboradores etc.
 
 ## Convenciones
-* divulgacion.md : documento corto (dos páginas) donde se explica la materia para alguien que no sabe nada, contiene opiniones anecdotas y es de lectura liviana, aspira a ser un ensayo.
 
+En los [repositorios de nuestras materias](https://github.com/son0p/casaDeExperimentos/blob/master/curriculo.md) encontraran los archivos nombrados de la siguiente manera:
+
+* ***divulgacion.md*** : documento corto (dos páginas) donde se explica la materia para alguien que no sabe nada, contiene opiniones anecdotas y es de lectura liviana, aspira a ser un ensayo.
+https://github.com/son0p/casaDeExperimentos/blob/master/curriculo.md)
 * **practicas.md** : serie de ejercicios para quien ya sabe algo y quiere aprender practicando con retos.
 
 * **herramientas.md** : documentos de referencia, scripts, etc, para facilitar cosas rutinarias de la materia
