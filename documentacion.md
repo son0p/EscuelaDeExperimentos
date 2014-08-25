@@ -23,7 +23,7 @@ En los [repositorios de nuestras materias](https://github.com/son0p/casaDeExperi
 
 * **ciclo3m.md** : tabla de contenidos de un ciclo de tres meses con una sesión semanal
 
-* **/ciclo3m (folder)** : contiene los textos guia para las doce semanas
+* **ciclo3m/ (folder)** : contiene los textos guia para las doce semanas
 
 * **ciclo3m/01.md   ... ciclo3m/12.md** : contiene las guías para las doce sesiones
 
