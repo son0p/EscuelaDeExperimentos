@@ -7,6 +7,23 @@ Sería importante hacer los documentos en un sitio público de control de
 versiones y sugerimos GitHub por la posibilidad de colaboración y las
 herramientas como Issues, colaboradores etc.
 
+## Convenciones
+* divulgacion.md : documento corto (dos páginas) donde se explica la materia para alguien que no sabe nada, contiene opiniones anecdotas y es de lectura liviana, aspira a ser un ensayo.
+
+* **practicas.md** : serie de ejercicios para quien ya sabe algo y quiere aprender practicando con retos.
+
+* **herramientas.md** : documentos de referencia, scripts, etc, para facilitar cosas rutinarias de la materia
+
+* **rutinas.md** : ya alguien que domina el tema y quiere tener rutinas de estudio diarias para elevar su nivel.
+
+* **profundizacion.md** : Documentación de la materia de largo aliento, aspira a ser un librillo
+
+* **ciclo3m.md** : tabla de contenidos de un ciclo de tres meses con una sesión semanal
+
+* **/ciclo3m (folder)** : contiene los textos guia para las doce semanas
+
+* **ciclo3m/01.md   ... ciclo3m/12.md** : contiene las guías para las doce sesiones
+
 ### Divulgación
 La función de esta parte es que la comunidad general (no educada en el tema)
 se lleve una noción de lo que se trata la temática.
