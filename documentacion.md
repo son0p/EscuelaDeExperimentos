@@ -11,7 +11,7 @@ herramientas como Issues, colaboradores etc.
 
 En los [repositorios de nuestras materias](https://github.com/son0p/casaDeExperimentos/blob/master/curriculo.md) encontraran los archivos nombrados de la siguiente manera:
 
-* ***divulgacion.md*** : documento corto (dos páginas) donde se explica la materia para alguien que no sabe nada, contiene opiniones anecdotas y es de lectura liviana, aspira a ser un ensayo.
+* **divulgacion.md** : documento corto (dos páginas) donde se explica la materia para alguien que no sabe nada, contiene opiniones anecdotas y es de lectura liviana, aspira a ser un ensayo.
 
 * **practicas.md** : serie de ejercicios para quien ya sabe algo y quiere aprender practicando con retos.
 
