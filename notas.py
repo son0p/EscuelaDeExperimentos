@@ -1,8 +1,10 @@
 
-
-
-
 # Notas
+
+
+---
+
+
 25 julio 
 bajar el tempo cuando no suena bien
 si vienen nuevos uno experto le ayuda a uno nuevo
