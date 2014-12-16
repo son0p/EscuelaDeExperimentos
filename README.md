@@ -1,5 +1,5 @@
 
-# Casa de Experimentos
+# Escuela de Experimentos
 
 ![Sequenciador Humano](https://github.com/son0p/casaDeExperimentos/raw/master/imagenes/mediaSeqHumano.png)
 
