@@ -1,5 +1,5 @@
 
-Recomendaciones de dotación para estudios de grabación públicos en Medellín
+Recomendaciones para equipamientos que consideren el sonido
 ===========================================================================
 
 *Este documento habita de manera virtual en : https://goo.gl/VHTwaB puede encontrar una versión más actualizada allí.*
