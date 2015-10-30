@@ -1,5 +1,5 @@
 ## Tutores
-- Aplica herramientas pedagógicasde las metodologías Walrdorf, Constructivismo y Aprendizaje basado en problemas. 
+- Aplica herramientas pedagógicas y didácticas aprendidas en los procesos de formación de formadores.
 - Guia a los aprendices en construir sus propios curriculums.
 - Entrega informes donde evalua el progreso individual de los aprendices.
 - Seleciona los contenidos que requieran expertos y los convocarlos.
@@ -38,11 +38,11 @@
 - Presentar, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
 - Asistir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
 - Asistir a las capacitaciones que planteé la dirección pedagógico.
-     
+
 `Generos de Musica electrónica`:
 - Entender semántica y musicalmente los diferentes géneros(particularmente Dubstep, Techno, IDM, Drum & Bass, Trance)
 - Diseñar ejercicios para el mejor entendimiento de los géneros músicales.
-- Entender y enseñar las técnicas de producción los géneros, sintesis, programación de ritmos, etc. 
+- Entender y enseñar las técnicas de producción los géneros, sintesis, programación de ritmos, etc.
 - Explorar y entender las herramientas de producción musical en GNU/Linux.
 - Hacer talleres  de introducción a su especialidad.
 - Hacer conferencias de divulgación pública sobre su especialidad.
@@ -52,7 +52,7 @@
 - Presentar, a los facilitadores, un informe cada ciclo (tres meses) donde expone las restricciones, distracciones, procesos, logros y fracasos de ese ciclo.
 - Asitsir a reuniones asginadas por los facilitadores y/o dirección pedagógica.
 - Asistir a las capacitaciones que planteé la dirección pedagógico.
-- 
+-
 
 `Desarrollador`
 - Desarrolla aplicaciones según las necesidades de Casas de la Música.
@@ -75,13 +75,13 @@
 - Hacer talleres  de introducción a su especialidad (Escucha crítica).
 - Asesorar a los aprendices en los temas de su especialidad.
 - Documentar sus procesos y coordinar la documentación de su especialidad.
-  
+
 `Arte y Concepto`:
 - Esta capacitado en ayudar a los aprendices a justificar conceptualmente sus propuestas en el ámbito del arte sonoro.
 - Ayuda a los aprendices a construir y justificar conceptualmente sus ideas.
 - Enseña a relacionar las ideas de los aprendices con las corrientes y tendencias del arte.
 
-     
+
 `Comunicación`:
 - Entiende de las comunicaciones en Nichos y sub-culturas, domina las herramientas de comunicación,
 - sabe guiar a los aprendices en la manera de comunicarse con la gente que habita sus propuestas.
@@ -89,7 +89,7 @@
 
 `Bases musicales`:
 - Tiene habilidades pedagógicas para enseñar las bases de ritmo, armonía, lecto-escritura de música.
-     
+
 
 
 ## Potenciales Invitados

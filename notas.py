@@ -1,6 +1,12 @@
 
 # Notas
+10 de octubre
 
+
+----------
+darles base musical a los chicos de hip hop
+
+laclave una desición de acentos en un ciclo rítmico, se puede volver un género
 
 ---
 

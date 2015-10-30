@@ -2,7 +2,7 @@
 Recomendaciones de dotación para estudios de grabación públicos en Medellín
 ===========================================================================
 
-Este documento habita de manera virtual en :
+Este documento habita de manera virtual en : https://goo.gl/VHTwaB puede encontrar una versión más actualizada allí.
 
 -   En el caso de equipos especializados (Hardware) es importante que la marca tenga representación local, para cuestiones de mantenimiento y garantía.
 -   En lo posible buscar soluciones  de Software con código abierto.
@@ -13,11 +13,12 @@ Equipos(Hardware)
 
 ### Captura
 
--   Micrófonos
+-   ***Micrófonos***
 
--   Condensador: Idealmente es importante tener pares de micrófonos de la misma referencia para posibles grabaciones en técnicas de microfonía estéreo, entonces conviene un par de  diafragma grande y un par de diafragma pequeño, si el presupuesto es ajustado se prefiere el par de diafragma grande, es fundamental que tenga capacidad de atenuación, ideal que tenga varios patrones polares, marcas como Audio Technica tienen una buena relación de calidad y precio.
--   Dinámicos: se pueden seleccionar diferentes marcas y especificaciones, si no se va a conseguir un kit de batería sería importante tener tres o cuatro de la misma referencia para usar en los Toms de una batería.
--
+-    ***Condensador***: Idealmente es importante tener pares de micrófonos de la misma referencia para posibles grabaciones en técnicas de microfonía estéreo, entonces conviene un par de  diafragma grande y un par de diafragma pequeño, si el presupuesto es ajustado se prefiere el par de diafragma grande, es fundamental que tenga capacidad de atenuación, ideal que tenga varios patrones polares, marcas como Audio Technica tienen una buena relación de calidad y precio.
+
+-    ***Dinámicos***: se pueden seleccionar diferentes marcas y especificaciones, si no se va a conseguir un kit de batería sería importante tener tres o cuatro de la misma referencia para usar en los Toms de una batería.
+
 
 -   Preamplificadores: Es recomendable tener al menos dos preamplificadores de alta gama, hay fabricantes colombianos de buena calidad por ejemplo [Camilo Silva](https://www.google.com/url?q=http://camilosilvaf.com/&sa=D&usg=AFQjCNEy3jvfgFFhBfYzjG_2KJBx4e0ESg) ( [http://camilosilvaf.com/](https://www.google.com/url?q=http://camilosilvaf.com/&sa=D&usg=AFQjCNEy3jvfgFFhBfYzjG_2KJBx4e0ESg) )
 -   Tarjeta de sonido: considerar que sea compatible con GNU/Linux
