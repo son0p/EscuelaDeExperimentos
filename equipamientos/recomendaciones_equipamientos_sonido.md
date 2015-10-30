@@ -13,11 +13,9 @@ Equipos(Hardware)
 
 ### Captura
 
--   ***Micrófonos***
+-    ***Micrófonos de Condensador***: Idealmente es importante tener pares de micrófonos de la misma referencia para posibles grabaciones en técnicas de microfonía estéreo, entonces conviene un par de  diafragma grande y un par de diafragma pequeño, si el presupuesto es ajustado se prefiere el par de diafragma grande, es fundamental que tenga capacidad de atenuación, ideal que tenga varios patrones polares, marcas como Audio Technica tienen una buena relación de calidad y precio.
 
--    ***Condensador***: Idealmente es importante tener pares de micrófonos de la misma referencia para posibles grabaciones en técnicas de microfonía estéreo, entonces conviene un par de  diafragma grande y un par de diafragma pequeño, si el presupuesto es ajustado se prefiere el par de diafragma grande, es fundamental que tenga capacidad de atenuación, ideal que tenga varios patrones polares, marcas como Audio Technica tienen una buena relación de calidad y precio.
-
--    ***Dinámicos***: se pueden seleccionar diferentes marcas y especificaciones, si no se va a conseguir un kit de batería sería importante tener tres o cuatro de la misma referencia para usar en los Toms de una batería.
+-    ***Micrfófonos Dinámicos***: se pueden seleccionar diferentes marcas y especificaciones, si no se va a conseguir un kit de batería sería importante tener tres o cuatro de la misma referencia para usar en los Toms de una batería.
 
 
 -  ***Preamplificadores***: Es recomendable tener al menos dos preamplificadores de alta gama, hay fabricantes colombianos de buena calidad por ejemplo [Camilo Silva](https://www.google.com/url?q=http://camilosilvaf.com/&sa=D&usg=AFQjCNEy3jvfgFFhBfYzjG_2KJBx4e0ESg) ( [http://camilosilvaf.com/](https://www.google.com/url?q=http://camilosilvaf.com/&sa=D&usg=AFQjCNEy3jvfgFFhBfYzjG_2KJBx4e0ESg) )
@@ -92,6 +90,5 @@ En instalaciones de menos compromiso tenemos dos frentes de posibilidades
 
 -   Evite muros paralelos, también paralelismo entre techo y piso
 -   Para distribuir de manera homogénea las frecuencias puede usar absorbentes,  difusores y reflectores acústicos
-
 -   Para absorber frecuencias medias y altas use materiales absorbentes como lana de vidrio,
 -   Para absorber frecuencias bajas use trampas para bajos y resonadores de Helmholtz
